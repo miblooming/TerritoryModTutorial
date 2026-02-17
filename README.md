@@ -1,10 +1,10 @@
 # TerritoryModTutorial
 这是游戏《领地：种田与征战》（Territory: Farming and Warfare）的Mod制作教程
 
-#注意
+# 注意
 创意工坊初开，文案及接口还在整理，此文档近期会频繁更新
 
-#Mod制作方法
+# Mod制作方法
 1.复制一份ModExample，重命名为自己将来发布的Mod的英文名，名称需使用英文及下划线。
 2.修改ModExample/About/About.xml文件
 	name为Mod名称
