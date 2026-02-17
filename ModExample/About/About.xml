@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+  <name>TestMod1</name>
+  <authors>
+    <li>Looming</li>
+  </authors>
+  <description>
+    这是一个测试Mod，仅用于开发测试之用，无实际功能。
+	预览图尺寸：637 x 658 像素
+	格式：Png
+  </description>
+  <url>https://github.com/miblooming/TerritoryModTutorial</url>
+  <packageId>Looming.TestMod1</packageId>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <modVersion>1.0</modVersion>
+</ModMetaData>
