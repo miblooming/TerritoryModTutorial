@@ -30,12 +30,19 @@ json_data中保存着游戏运行时，所使用的数据，则excel_data转化�
 可以一次修改多个条目，多条目之间中逗号隔开（即Json数组的格式）
 
 [
+
  {
+ 
     "key": "npc_move_speed",
+	
     "value": "0.85",
+	
     "name": "Npc移动速度",
+	
     "remark": "增加速度"
+	
   }
+  
 ]
 
 
