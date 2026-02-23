@@ -1,8 +1,4178 @@
 [
-    {
-        "key": "",
-        "value": "",
-        "name": "",
-        "remark": ""
-    }
+  {
+    "key": "init_religion_point",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "religion_point_increase_per_day",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_to_reset_time_record_of_unnecessary_stuff_to_carry",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "cool_down_on_failed_to_order_stuff",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "when_total_count_is_too_less_and_ignore_min_count_to_carry_of_wagon",
+    "value": "500",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "effect_of_efficient_storage",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rate_of_refugee_from_other_player",
+    "value": "0.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dragon_max_nature_count_in_active",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dragon_hp_effect_of_potentiality",
+    "value": "0.05",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "share_of_emperor",
+    "value": "0.4",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "share_of_king",
+    "value": "0.6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_to_start_develop_empire_village",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "min_lightning_bright",
+    "value": "1.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "duration_days_before_die_to_notice",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_dragon_control_level_to_upgrade_in_king_eternal_temple",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_dragon_control_count_to_upgrade_in_king_eternal_temple",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fluorescent_effect_range",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "effect_of_fluorescent_red",
+    "value": "1.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "effect_of_fluorescent_blue",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "effect_of_fluorescent_green",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "duration_days_effect_of_fluorescent",
+    "value": "180",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "insurance_end_month",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "price_rate_of_insurance",
+    "value": "0.8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "base_fee_rate_of_insurance",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_insurance_year_count",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "create_baby_rate_in_public_bath",
+    "value": "0.01",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "work_duration_year_of_resident_in_empire_village_max",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "work_duration_year_of_resident_in_empire_village_default",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "percent_of_people_to_escape_to_other_territory",
+    "value": "0.01",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "duration_days_of_people_to_escape_to_other_territory",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_to_escape_to_other_territory",
+    "value": "40",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "count_of_too_many_prisoner_escape_one_month",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "trading_effect_of_lord_has_nature_wisdom",
+    "value": "0.05",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "move_speed_effect_of_dirt_road",
+    "value": "1.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "move_speed_effect_of_floor",
+    "value": "1.35",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "move_speed_effect_of_stone_road",
+    "value": "1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "move_speed_effect_of_ladder",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "move_speed_effect_of_bridge_wood",
+    "value": "0.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "move_speed_effect_of_bridge_stone",
+    "value": "1.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "walk_time_user_rate_of_level1",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "walk_time_user_rate_of_level2",
+    "value": "0.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "keep_royal_count_on_arrange_governor",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "reinforcement_days_cooldown",
+    "value": "1080",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rate_to_build_cannon_for_enemy",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rate_to_dare_to_die_of_soldier_on_invade",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_hurt_percent_to_dragon_of_magic_bomb_explosion",
+    "value": "0.05",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "soldier_training_effect_of_atk_increase",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "attack_power_effect_by_relative_member_dead_duration_days",
+    "value": "180",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "npc_move_speed",
+    "value": "0.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "npc_move_speed_random_float",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "animal_move_speed",
+    "value": "0.6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "animal_move_speed_random_float",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "age_for_year",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "time_scale",
+    "value": "8640",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "camera_shake_amplitude",
+    "value": "0.2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "camera_shake_duration",
+    "value": "0.2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "camera_shake_times",
+    "value": "4",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_init_rate",
+    "value": "0.52",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_init_rate_on_land",
+    "value": "0.45",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_init_rate_on_hill",
+    "value": "0.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_recover_rate",
+    "value": "0.000278",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "flower_wild_init_rate",
+    "value": "0.45",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "flower_wild_init_rate_on_land",
+    "value": "0.7",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "stone_init_rate",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "iron_init_rate",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "stone_block_size",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "stone_in_block_rate",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "iron_block_size",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "iron_in_block_rate",
+    "value": "0.6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_sapling_years",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_mature_years",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "old_tree_age",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_tree_age",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_rot_age",
+    "value": "22",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_disappear_age",
+    "value": "24",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hunger_max",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hunger_force_find_food",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hunger_find_food_when_idle",
+    "value": "70",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hunger_find_food_after_sleep",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hunger_show_notice",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hunger_force_interrupt_task",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_food_cd_days",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heat_max",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heat_force_find_warm",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heat_force_find_warm_when_idle",
+    "value": "70",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heat_force_find_warm_of_soldier",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heat_show_notice",
+    "value": "40",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heat_force_interrupt_task",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heat_warm",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_warm_cd_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "mourn_cd_days",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_count_heat_recover",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heat_loss_start_temp",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heat_increase_start_temp",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "indoor_keep_warm_effect",
+    "value": "0.8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fuel_day_cost_of_furnace",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fuel_day_cost_of_cook_table",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fuel_day_cost_of_public_bath",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "public_bath_water_count_max",
+    "value": "10000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "water_count_of_public_bath_per_day",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "water_count_of_public_bath_per_day_on_no_customer",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "npc_count_taking_a_bath_max",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "firewood_lack_threshold",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fuel_cost_of_bonfire_onetime",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "day_count_for_prepare_bonfire",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "day_count_for_max_delay_start_bonfire",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_bonfire_party_npc_count",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heap_size_cut_dead_body",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "heap_size_cut_big_fish",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "education_effect_of_fishing_efficiency",
+    "value": "1.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "health_force_see_doctor",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "see_doctor_cd_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "health_to_force_rest",
+    "value": "40",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "innutrition_days_to_level2",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "innutrition_days_to_ill",
+    "value": "900",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_sleep_on_groud_to_ill",
+    "value": "1080",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "arthritis_side_effect_duration_days",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ill_arthritis_effect_of_speed",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "day_count_of_health_recover_on_bed",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "day_count_of_health_recover_on_medical_bed",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "effect_of_silver_floor_for_medical_bed",
+    "value": "1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ill_rate",
+    "value": "0.0005",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ill_by_rain_rate_of_day",
+    "value": "0.005",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ill_by_snow_rate_of_day",
+    "value": "0.0025",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ill_shock_interval",
+    "value": "180",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_to_make_self_feel_better",
+    "value": "40",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_to_event_action",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_to_leave",
+    "value": "0",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_to_leave_percent_pre_year",
+    "value": "0.03",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "month_in_year_to_leave",
+    "value": "4",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "make_self_feel_better_cd_days",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_event_action_cd_days",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wine_count_of_alcaoholism",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "lie_flat_duration_days",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_handyman_task_count_of_one_facility",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_npc_bag_weight",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_npc_leather_bag_weight",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_npc_transporter_bag_count",
+    "value": "500",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_npc_coachman_transporter_unload_bag_count",
+    "value": "2000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_npc_count_to_dismantle_transport",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "build_workload_per_time",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_clothes_cd_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "clothes_durable_to_change",
+    "value": "45",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_umbrella_cd_days",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "umbrella_durable_max",
+    "value": "1080",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "leather_bag_durable_max",
+    "value": "1080",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_tool_cd_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tool_durable_max",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "better_tool_durable_max",
+    "value": "200",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_wine_cd_days",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "drink_wine_interval_days_min",
+    "value": "150",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "drink_wine_interval_days_max",
+    "value": "180",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "age_for_demand_wine",
+    "value": "40",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_chocolate_cd_days",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "eat_chocolate_interval_days_min",
+    "value": "150",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "eat_chocolate_interval_days_max",
+    "value": "180",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_coffee_cd_days",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_favor_interval_days",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "drink_coffee_interval_days_min",
+    "value": "45",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "drink_coffee_interval_days_max",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "coffee_effect_duration_days",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "coffee_effect_of_speed",
+    "value": "1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "coffee_effect_of_work_duration",
+    "value": "1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "insprition_effect_of_work_duration",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "drink_herbal_tea_interval_days_min",
+    "value": "150",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "drink_herbal_tea_interval_days_max",
+    "value": "170",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "drink_herbal_tea_withdrawal_reaction_threshold",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "senility_age",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "put_cd_days",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "percent_of_crop_dead_by_cold_one_day",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "giant_crop_rate",
+    "value": "0.02",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "big_fish_rate",
+    "value": "0.00066",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "big_fish_temp_disable_day_count",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "giant_crop_product_count_rate",
+    "value": "333",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "giant_crop_product_side_effect",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wild_refresh_block_size",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wild_vegetable_count_in_block",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "herb_count_in_block",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_wild_animal_group_count",
+    "value": "35",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "init_wild_animal_density",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wild_animal_move_interval_days",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wild_animal_move_dist",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "animal_dead_body_keep_days",
+    "value": "1080",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "min_wild_animal_group_count_for_hunt",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wild_animal_keep_dist_to_facility",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "deer_distance_in_one_group",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_count_deer_in_group",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_knowledge_of_student",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "educated_effect",
+    "value": "1.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "positive_impact_floorboard_around",
+    "value": "1.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_age_range1",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_age_range2",
+    "value": "99",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "extend_age_of_magic_rebirth",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "pray_start_day_in_year",
+    "value": "315",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_baby_count_of_one_family",
+    "value": "4",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_baby_count_of_one_noble_family",
+    "value": "8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "min_happiness_of_noble_create_baby",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "effect_of_bonfire",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "effect_of_bonfire_on_unlock_free_love",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_min_value_to_marry",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_min_value_to_marry_on_free_love_unlocked",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_pair_count_pre_month_of_free_love",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "min_lonely_age",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_lonely_age",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "baby_age_max",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "student_truancy_duration_days_max",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "age_of_elder",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "open_door_keep_duration",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "open_door_duration",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "open_fence_door_duration",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "house_range_max",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dark_light_intensity",
+    "value": "0.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "npc_sleep_days_random",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "npc_sleep_start_random",
+    "value": "8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "collect_cooldown_days",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_heap_size",
+    "value": "500",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "belief_value_max",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "belief_magic_point_increase_every_day",
+    "value": "0.277778",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "belief_magic_point_increase_speed_of_one_sermon_desk",
+    "value": "0.08",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "belief_value_step",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "belief_value_self_taught_step_per_month",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "belief_confusion_year_count_on_change_belief",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "months_of_travel_caravan_appear",
+    "value": "2,8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "caravan_search_days",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "caravan_search_again_days",
+    "value": "27",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "caravan_meeting_days",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "gift_silver_count_of_caravan_requite",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "gift_stuff_disable_days_count_of_caravan_requite",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "trading_pos_increase_step",
+    "value": "200",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wagon_station_dispatch_interval_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "keep_count_of_forage_grass_for_wagon_station",
+    "value": "2000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wagon_cool_down_for_transport",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "coachman_rest_days_count",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "water_kettle_capacity_max",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fishing_succ_rate",
+    "value": "0.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "stuff_count_to_put_for_gather",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "mature_interval_one_res_one_work",
+    "value": "6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "workshop_product_storage_count",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "assign_task_interval",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_border_width",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_border_width_for_trading_port",
+    "value": "25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_border_width_for_monster_wander",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ask_rescue_cd_days",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "look_after_elder_cd_days",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "shock_life_value",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "shock_life_value_of_baby",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "shock_life_value_of_ill",
+    "value": "720",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "shock_decrease_life_value_on_medical_bed",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "shock_decrease_life_value_on_bed",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "shock_decrease_life_value_on_ground",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "shock_by_attack_duration_days",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "nature_rate1",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "nature_rate2",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "speed_config",
+    "value": "1, 3, 5, 10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "anim_speed_config",
+    "value": "0.75, 0.875, 1, 1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "no_tools_days_to_notice",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "no_clothes_days_to_notice",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "no_work_days_to_notice",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "task_black_list_duration_days",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_count_watering_by_rain_a_day",
+    "value": "4",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_count_watering_by_rain_heavy_a_day",
+    "value": "8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "watering_rate_for_flowerpot_by_rain_a_day",
+    "value": "0.016666666666666666",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "watering_rate_for_flowerpot_by_rain_heavy_a_day",
+    "value": "0.03333333333333333",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_heavy_rate",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_rate_in_spring_or_summer_of_day",
+    "value": "0.02",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_rate_in_autumn_or_winter_of_day",
+    "value": "0.005",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_duration_days_min_in_spring",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_duration_days_max_in_spring",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_duration_days_min_in_summer",
+    "value": "7",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_duration_days_max_in_summer",
+    "value": "12",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_duration_days_min_in_autumn",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_duration_days_max_in_autumn",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_duration_days_min_in_winter",
+    "value": "7",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rain_duration_days_max_in_winter",
+    "value": "12",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "snow_duration_days",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dry_weather_rate",
+    "value": "0.02",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dry_weather_start_month",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dry_weather_end_month",
+    "value": "11",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dry_weather_duration_years_max",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dry_weather_stuff_drop_rate",
+    "value": "0.05",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dry_weather_stuff_drop_count_unit",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dry_weather_effect_of_fishing_product_next_year_after_end_year",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "eclipse_weather_rate",
+    "value": "0.02",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "eclipse_duration_months",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_ghost_count_of_cemetery_on_eclipse",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ghost_pre_tombstone_count",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "mine_deep_res_multiple",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "mine_deep_work_duration_multiple",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_count_of_abandoned_mine_min",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_count_of_abandoned_mine_max",
+    "value": "6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "indoor_facility_in_outside_effect",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "caravan_first_appear_year",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "sprite_call_count_max_default",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "sprite_call_count_max",
+    "value": "9",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "sprite_exist_day_count",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "sprite_move_speed_rate",
+    "value": "2.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "npc_count_of_famine",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "date_app_expire",
+    "value": "2024-12-30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "duration_to_auto_hp_recover_from_battle",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "interval_of_auto_hp_recover_from_battle",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rate_of_auto_hp_recover_from_battle",
+    "value": "0.01",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "bandit_level_interval_month_count",
+    "value": "23",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "bandit_stuff_need_as_silver",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "quarry_point_speed_up_rate",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_cut_fruit_tree_npc_count",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_animal_count_outstrip_rate_in_pasture",
+    "value": "1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_young_animal_rate_in_pasture_on_full",
+    "value": "0.2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "quarry_res_stock_remain_rate_of_dismantle_to_water_pool",
+    "value": "0.9",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "bee_move_speed",
+    "value": "0.35",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "bee_idle_duration",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "bee_send_out_interval",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hive_capacity",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "watch_flower_duration",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "count_of_watch_flower_a_lot",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "watch_flower_cool_down_duration_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "slime_monster_egg_first_appear_years",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "slime_monster_egg_appear_interval_years",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "slime_monster_egg_appear_month_in_year",
+    "value": "8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "slime_lay_egg_condition_of_food",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "slime_eat_food_duration_second",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "slime_move_speed_rate_on_crop_field",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "lay_egg_interval_days",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "lay_egg_max_pre_time",
+    "value": "9",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_count_of_infection",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rate_of_monster_infection_appear",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_drop_infection_source_interval_days",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "infection_source_keep_days",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "duration_of_soldier_auto_line_up_in_barracks_range",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hp_percent_on_rescue_by_pill",
+    "value": "0.8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "armor_clothes_heat_effect",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "immune_duration_days_of_pill",
+    "value": "1080",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "battle_target_give_up_track_dist_rate",
+    "value": "1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "prison_event_rate",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "troop_random_move_dist_min",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "troop_random_move_dist_max",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "interval_days_changing_of_guard",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "interval_days_team_move",
+    "value": "6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "trading_port_default_discount",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "trading_desk_default_discount",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "discount_config_favourable_of_travel_caravan",
+    "value": "60,120,180:40,20,0",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "discount_favourable_cancel_of_port_caravan",
+    "value": "200",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "before_this_year_monster_only_wander_at_map_edge",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "threshold_to_skip_finding_best_path_on_task_assign",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loan_limit",
+    "value": "9999",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loan_interest_rate",
+    "value": "0.035",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "deposit_rate",
+    "value": "0.01",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hire_count_limit",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hire_duration_years_limit",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hire_fee_of_one_year",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fee_of_hire_worker_dead",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fee_of_solicit_refugee",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "refugee_appear_rate",
+    "value": "0.33",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hire_worker_educated_discount",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "caravan_max_stuff_count",
+    "value": "99999",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "min_animal_count_in_pasture_to_play_sound_effect",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "facility_env_sound_interval",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "facility_env_sound_rate",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_prison_escape_duration_days",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "decrease_of_resistance_pre_time_one_converting",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "be_convert_cd_days",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "be_execute_cd_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "decrease_resistance_by_supply_good_food",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "decrease_resistance_by_supply_wine",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "decrease_resistance_by_ill",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "research_point_per_day",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_count_stay_on_bed_before_old_to_die",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_count_of_res_facility_handyman_to_clear_product",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "study_impact_of_belief_monotheism",
+    "value": "1.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "inspiration_explode_max_times",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "reward_effect_of_happiness",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "reward_effect_of_work",
+    "value": "1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "reward_effect_duration_days",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "stuff_on_map_disabled_duration_days_by_danger_around",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dist_to_fear_danger",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "danger_area_dist_of_map_edge",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_age_gap_when_free_love_unlock",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fist_hurt_percent",
+    "value": "0.05",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "soldier_supply_interval_days",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "pick_up_nearby_dist",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "give_up_pick_up_nearby_dist_of_soldier",
+    "value": "7",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "soldier_drop_group_id",
+    "value": "1000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "init_npc_appearance_min",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "init_npc_appearance_max",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "soldier_weapon_damage_chance_on_be_hit_to_shock",
+    "value": "0.05",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "count_to_rest_after_task_transport_by_wagon_in_mode_no_fixed_route",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tame_duration_days_after_eat_food",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "too_crowded_for_monster",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "expand_range_to_find_pos_at_edge_for_monster_create",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_to_start_show_guide_of_facility",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_to_start_show_toolbar_guide_tip",
+    "value": "6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_to_start_show_guide_tip_on_facility_window",
+    "value": "6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_not_notice_elf_created",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hire_worker_for_collect_share_rate",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "years_before_dead_to_retire_of_soldier",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "area_product_multiple_on_first_occupy",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_develop_level",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "village_war_max_duration",
+    "value": "720",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_year_count_of_conscript",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "duration_days_of_facility_restore_hp_start",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "restore_facility_workload_percent_per_time",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "restore_facility_workload_per_time_min",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ai_cannon_supply_interval_days",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "gather_people_count_per_level",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ai_ship_shoot_bomb_cooldown_unscale_time",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "drop_wood_of_ship_percent",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "prisoner_work_duration_multiple",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_wagon_for_clear_transport",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "furnace_burn_interval",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "megalodon_stay_duration_days",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "month_of_lizard_man",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_of_werewolf_to_crazy",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_of_werewolf_to_crazy_on_eclipse",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_crazy_werewolf_count",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_kill_animal_count_on_crazy",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "feed_animal_interval_of_wagon",
+    "value": "DTime.DAY_IN_YEAR",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "feed_interval_of_mount",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "month_of_animals_in_estrus",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "animal_courtship_duration_days_outside_pasture",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_days_for_npc_dead_body_to_skeleton",
+    "value": "5400",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "skeleton_soldier_lifetime",
+    "value": "3600",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "recruit_immigrants_count_per_time",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "recruit_immigrants_price",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "prison_resistance_refuse_noble",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "militia_hp_recovery_percent_per_day",
+    "value": "0.033",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "carry_pill_count_max_of_soldier",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_effect_when_has_nature_loyal",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_effect_when_is_royal",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_effect_on_enter_banquet",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_effect_on_enter_banquet_max",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_effect_for_canonize",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_to_corrupt",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_too_low_and_notice",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "management_ability_too_low_and_notice",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_of_good_governor",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_of_good_earl",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_silver_of_earl",
+    "value": "10000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "change_of_loyalty_every_year_80_100",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "change_of_management_ability_every_year_80_100",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "effect_of_management_ability",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "change_of_loyalty_after_query_of_governor",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "change_of_loyalty_after_query_of_earl",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "change_of_loyalty_after_battle_of_earl",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "change_of_loyalty_after_inherit_of_earl",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_increase_of_royal",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "change_of_loyalty_after_marriage_of_earl",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "change_of_loyalty_after_marriage_of_earl_posterity",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_effect_of_reward_max",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_effect_of_saint",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "loyalty_for_living_room_with_golden_floor",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "book_count_limit_for_noble",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "military_ability_effect_when_has_nature_brave",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "management_ability_effect_when_has_nature_wisdom",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "noble_attr_from_parent_percent",
+    "value": "0.3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "military_ability_effect_of_battle_max",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "military_ability_effect_of_battle_of_monster",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_of_territory_initial",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_count_neutral_soldier_change_to_traveller",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "atk_range_to_near_for_remote_rate",
+    "value": "0.333",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "atk_range_for_remote_rate_to_keep_dist",
+    "value": "0.6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "noble_training_program_min_age",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "noble_training_program_max_age",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "official_selection_program_min_age",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "official_selection_program_max_age",
+    "value": "60",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "min_count_keep_noble_for_diplomacy",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_count_keep_noble_for_diplomacy",
+    "value": "999",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "reward_of_kill_monster",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "reward_of_kill_enemy",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_npc_count_in_burrow",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "career_effect_of_make_of_race_not_dwarf",
+    "value": "0.85",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "career_effect_when_mismatch_of_teacher_or_minister",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_effect_range_of_banquet_table",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "magic_power_of_one_book",
+    "value": "0.01",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "decrease_hurt_of_magic_of_titan",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "decrease_hurt_iron_bomb_of_titan",
+    "value": "0.01",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_of_titan_sermon_by_altar",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "banquet_start_day_in_month",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "banquet_end_day_in_month",
+    "value": "25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "rate_of_contracting_malaria_from_mosquito_bites",
+    "value": "0.01",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_count_of_mosquito_to_create_in_pig_man_houes",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "month_in_year_to_create_mosquito",
+    "value": "4",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "month_in_year_to_destroy_mosquito",
+    "value": "7",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "mosquito_count_max_create_on_faeces",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "faeces_to_create_mosquito_rate",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "facility_to_create_mosquito_rate",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "cat_man_marry_month",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "cat_man_divorce_month",
+    "value": "6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "save_day_in_year",
+    "value": "181",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dinner_table_service_range_max",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "mount_drop_rate_after_repel",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "soldier_restraint_effect_on_attack",
+    "value": "1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "lord_inherit_fee_rate",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "new_lord_follower_count_min",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "new_lord_follower_count_max",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hit_to_dead_rate_by_unknown",
+    "value": "0.3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dead_rate_reduce_of_noble_soldier",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "cost_gem_count_of_ice_cellar",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "inventory_gaps_prompting_replenish_of_facility_default",
+    "value": "0.8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "holy_star_of_word_game",
+    "value": "{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 }",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "word_count_to_obtain_holy_star",
+    "value": "8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "obelisk_effect_duration",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "obelisk_circle_attack_buff_effect_interval",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "soldier_re_findpath_dist_threshold_on_battle_when_target_moved",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "min_dist_x_for_melle_attack",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "stand_dist_x_for_melle_attack",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "call_helper_range",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "npc_notify_danger_range",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "interval_for_batch_put",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_rov_agent_radius",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "soldier_rov_agent_radius",
+    "value": "0.2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "double_click_interval",
+    "value": "0.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "mouse_left_press_interval",
+    "value": "0.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "delta_max_of_monster_level_and_player_weapon_level",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "pill_count_take_along_multiplier_by_soldier_orderly",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "immune_ill_at_new_game_begining_of_year",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fail_rate_shot_in_rain",
+    "value": "0.8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ai_barracks_supply_interval_days",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "enemy_level_interval_month_count",
+    "value": "39",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_level_interval_month_count",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_monster_count",
+    "value": "200",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_monster_titan_count",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_facility_layout_grid_size",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_idle_time_on_find_no_way",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_great_view_range_rate",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_facility_to_attack_range_multiplier",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "eat_wood_duration_or_monster18",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "eat_wood_duration_or_monster19",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "min_appearance_of_good_look",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "slime_lay_egg_duration_second",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "monster_eat_food_interval_days_on_groud",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "megalodon_appear_month_in_year",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dead_body_count_for_megalodon_appear",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "megalodon_count_appear_for_npc_dead_body",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_count_of_megalodon",
+    "value": "1000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "hp_buff_area_keep_days",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dist_max_of_monster_in_group",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_count_for_stuff_to_dismiss_on_water",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_count_caravan_force_to_leave",
+    "value": "200",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "caravan_notice_keep_days_count",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "workshop_materails_access_range_default",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "workshop_bed_connect_dist_limit",
+    "value": "40",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_extend_h",
+    "value": "150",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_extend_gate_width",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_extend_board",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "cannon_bomb_fly_speed",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "nature_wisdom_effect_of_inspiration",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "go_to_toilet_interval",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "go_to_toilet_interval_random_range",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_militia_equip_cd_days",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "toilet_alternative_count",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "toilet_waiting_max",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "toilet_alternative_max_dist",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "day_count_for_prepare_brazier",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fuel_day_cost_of_brazier",
+    "value": "0.2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fuel_day_cost_of_torch",
+    "value": "0.06",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "threshold_to_check_lack_cooked_food",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "too_crowd_and_sleep_on_ground_to_leave",
+    "value": "300",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_duration_days_for_npc_waiting_for_nearby_task",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_dist_for_npc_waiting_for_nearby_task",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "child_grow_well_speed_effect",
+    "value": "1.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_buy_stuff_cd_days",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_check_in_cd_days",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_recruit_price_min",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_recruit_price_max",
+    "value": "1000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_recruit_max_times",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_recruit_condition_happiness",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_recruit_condition_people_count",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_recruit_rate_for_couple",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_recruit_rate_for_child",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "take_bath_cd_days",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_public_bath_cd_days",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_play_poker_cd_days",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "duration_days_of_play_poker",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "play_poker_service_charge_rate",
+    "value": "0.02",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "poker_table_round_max_to_clear",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_play_roulette_wheel_cd_days",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "roulette_wheel_bet_type_count",
+    "value": "12",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "roulette_wheel_odds",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "roulette_wheel_bet_max_bet_amount",
+    "value": "99999",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_betting_preference_count",
+    "value": "6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_count_increase_step_of_poker_table",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "poker_table_count_max_to_increase_traveller_count",
+    "value": "9",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_count_increase_step_of_roulette_wheel",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "roulette_wheel_count_max_to_increase_traveller_count",
+    "value": "9",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_count_increase_step_of_public_bath",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "public_bath_count_max_to_increase_traveller_count",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ring_durable_max",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "nacklace_durable_max",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_equip_cd_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "read_book_interval_days_interval_days_min",
+    "value": "690",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "read_book_interval_days_interval_days_max",
+    "value": "720",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_count_to_unhappy_on_lack_book",
+    "value": "720",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_path_to_bed_cd_days",
+    "value": "6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "water_count_max_in_well",
+    "value": "1000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "water_count_recover_a_day_of_well",
+    "value": "25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "water_count_recover_speed_of_well_on_dry_weather",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wild_vegetable_mature_days",
+    "value": "28",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "min_wild_animal_group_count_of_one_type",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "adjust_dist_max_for_deer",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "adjust_dist_max_for_nav",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_mature_years1",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "tree_mature_years2",
+    "value": "8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_age_days_of_grass",
+    "value": "1800",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "halo_rotate_speed1",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "halo_rotate_speed2",
+    "value": "180",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "halo_rotate_speed3",
+    "value": "270",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "halo_rotate_speed4",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "lord_halo_effect_cooldown",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "atk_miss_rate_of_lord_halo_attack_to_titan",
+    "value": "0.75",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_baby_count_of_one_lord_family",
+    "value": "8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "happiness_min_value_to_find_minister_to_tell",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_minister_to_tell_cd_days_min",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "find_minister_to_tell_cd_days_max",
+    "value": "540",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "view_range_in_fog",
+    "value": "8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "base_npc_count_of_belief",
+    "value": "500",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "base_max_belief_value",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "increment_max_belief_value",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "wagon_on_free_mode_idle_days_to_park",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "order_stuff_price_discount",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_border_disable_dist_for_caravan",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_border_width_for_caravan",
+    "value": "4",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "nature_bad_rate_of_refugee",
+    "value": "0.8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "nature_rate_of_refugee_of_letter",
+    "value": "0.01",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fee_of_solicit_resident",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "nature_bad_rate_of_immigration",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "nature_rate_of_immigration_of_letter",
+    "value": "0.1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "age_for_migrate_max",
+    "value": "40",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_of_governor_max",
+    "value": "8",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_of_governor_max_of_noble",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "indoor_max_dist_to_wall",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dry_weather_first_start_year",
+    "value": "6",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "increase_rate_of_fishing_product_for_deep_water",
+    "value": "1.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "dry_weather_start_year_at_new_game",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "eclipse_weather_first_start_year",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "snow_anim_duration",
+    "value": "20",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_to_game_time_second",
+    "value": "(24*60*60) / time_scale",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "game_time_second_to_days",
+    "value": "1 / days_to_game_time_second",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "cold_wave_effect_of_temperature",
+    "value": "15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "cold_wave_extreme_effect_of_temperature",
+    "value": "28",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "temperature_of_monster_be_frozen",
+    "value": "-15",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "temperature_of_monster_be_unfrozen",
+    "value": "0",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "temperature_of_farmland_sow",
+    "value": "0",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "temperature_of_farmland_watering",
+    "value": "0",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "batch_max_count_to_create_task",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_animal_dead_body_binding_to_hunting_cabin",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "flower_pot_watering_interval_days",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "flower_pot_water_need",
+    "value": "4",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "day_in_month_to_pick_up_fruit_of_flower_pot",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "fertilizer_effect_of_mushroom_box",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "water_effect_of_mushroom_box",
+    "value": "1.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "warm_effect_of_mushroom_box",
+    "value": "1.25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "trading_desk_default_caravan_sell_discount",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_dosage_of_mushroom_essence",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "balance_threshold",
+    "value": "1000000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_withdraw_per_time",
+    "value": "1000000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "deposit_rate_of_risk",
+    "value": "0.03",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "caravan_max_stuff_count_of_order",
+    "value": "9999",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "caravan_max_stuff_count_of_animal_order",
+    "value": "99",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "decrease_resistance_by_supply_clothes",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ant_soldier_idle_days_to_back",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_to_start_create_ant",
+    "value": "3",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_to_start_create_ant_red",
+    "value": "25",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "days_of_hatred_of_the_queen_ant",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "collect_output_multiply_of_ant",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ant_nest_core_range",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ant_nest_base_active_range",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ant_nest_range_extend_by_level",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "year_to_start_cold_wave",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_stuff_count_to_notice",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "collect_job_count_to_notice",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_stuff_count_so_more_to_notice",
+    "value": "100",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "collect_job_count_so_more_to_notice",
+    "value": "200",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "map_stuff_count_of_battle_drop_to_notice",
+    "value": "50",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "animal_mount_stay_days_in_wild",
+    "value": "720",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "disable_pick_up_by_orderly_days",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "build_count_limit_at_same_time_max",
+    "value": "999",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "notice_keep_days_long",
+    "value": "1080",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "notice_keep_days_short",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "people_count_to_not_random_wander_walk",
+    "value": "150",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "standard_of_beauty",
+    "value": "80",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_beauty_for_dan",
+    "value": "90",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "effect_of_book_for_nobel",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "default_cannon_bomb_offset",
+    "value": "0.7",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "duration_days_stay_at_port",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "duration_days_stay_at_port_without_trade",
+    "value": "1",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ship_move_speed_on_world_map",
+    "value": "0.5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ship_rest_duration_days",
+    "value": "30",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ship_rotate_staff_duration_days",
+    "value": "360",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ship_go_to_sea_interval_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ship_go_to_sea_interval_days_of_sea_route",
+    "value": "91",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ship_try_go_to_sea_interval_days",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "ship_bag_limit",
+    "value": "100000",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_score_to_increase_after_group_leave",
+    "value": "2",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_score_to_decrease_on_traveller_dead",
+    "value": "5",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "traveller_score_to_decrease_on_drive_away_traveller",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "favorite_fruit_count_per_year",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  },
+  {
+    "key": "max_extend_effect_range_of_throne",
+    "value": "10",
+    "name": "",
+    "remark": ""
+  }
 ]
