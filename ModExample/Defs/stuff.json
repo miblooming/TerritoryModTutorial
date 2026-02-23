@@ -1,0 +1,24 @@
+[
+    {
+        "stuff_id": 100001,
+        "price": 0,
+        "can_carry_one_by_one_anytime": 0,
+        "incineration_result": 0,
+        "spoilage_year_limit": 0,
+        "disable": 0,
+        "can_pick_up_by_ant": 0,
+        "ignore_in_summary": 0,
+        "sort_index": 0,
+        "stuff_type": 1,
+        "stuff_sub_type": 100,
+        "effect_value": 0.0,
+        "prefab": "initial",
+        "stuff_img": "ui_100001",
+        "stuff_img_on_map": "initial_0",
+        "weight": 1.0,
+        "reward_count_once": 0,
+        "op_increase_step": 1,
+        "stuff_namezh-CN": "初始马车",
+        "desczh-CN": "[MOD修改了描述]装载着领地第一代开拓者物资的马车。"
+    }
+]

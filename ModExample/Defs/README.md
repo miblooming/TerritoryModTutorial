@@ -20,5 +20,24 @@ json_data中保存着游戏运行时，所使用的数据，则excel_data转化�
 
 通过build.json，可添加一个新的建筑。但是建筑要起作用，则需编写相关的代码。
 
+# 如何修改全局配置参数
+参考代码ModExample\Defs\Config\C.cs
+
+按其中的变量名称，编写配置文件，比如npc_move_speed这个变量，默认值为0.75
+
+编写如下配置信息，保存到ModExample\Defs\config.json文件中，在Mod启用后，即可修改居民的基础移动速度为0.85
+
+可以一次修改多个条目，多条目之间中逗号隔开（即Json数组的格式）
+
+[
+ {
+    "key": "npc_move_speed",
+    "value": "0.85",
+    "name": "Npc移动速度",
+    "remark": "增加速度"
+  }
+]
+
+
 
 
