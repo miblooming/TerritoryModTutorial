@@ -1,0 +1,146 @@
+[
+    {
+        "dragon_nature_id": 1,
+        "para1": 0.15,
+        "para2": "",
+        "para3": "",
+        "name_zh-CN": "坚韧",
+        "desc_zh-CN": "最大生命+15%"
+    },
+    {
+        "dragon_nature_id": 2,
+        "para1": 0.1,
+        "para2": "",
+        "para3": "",
+        "name_zh-CN": "洞察",
+        "desc_zh-CN": "暴击率+10%"
+    },
+    {
+        "dragon_nature_id": 3,
+        "para1": 0.001,
+        "para2": "",
+        "para3": "",
+        "name_zh-CN": "再生",
+        "desc_zh-CN": "脱离战斗后，每秒恢复0.1%的最大生命"
+    },
+    {
+        "dragon_nature_id": 4,
+        "para1": 0.05,
+        "para2": "",
+        "para3": "",
+        "name_zh-CN": "反震",
+        "desc_zh-CN": "受到攻击时反弹5%伤害"
+    },
+    {
+        "dragon_nature_id": 5,
+        "para1": 0.1,
+        "para2": "",
+        "para3": "",
+        "name_zh-CN": "迅捷",
+        "desc_zh-CN": "攻击速度+10%"
+    },
+    {
+        "dragon_nature_id": 6,
+        "para1": 0.15,
+        "para2": "",
+        "para3": "",
+        "name_zh-CN": "穿透",
+        "desc_zh-CN": "无视目标15%防御"
+    },
+    {
+        "dragon_nature_id": 7,
+        "para1": 3.0,
+        "para2": "",
+        "para3": "",
+        "name_zh-CN": "蓄能",
+        "desc_zh-CN": "每3次普通攻击后，输出一次暴击"
+    },
+    {
+        "dragon_nature_id": 8,
+        "para1": 0.5,
+        "para2": "",
+        "para3": "",
+        "name_zh-CN": "破防",
+        "desc_zh-CN": "命中敌人后，敌人接下一次遭受的攻击伤害将+50%"
+    },
+    {
+        "dragon_nature_id": 9,
+        "para1": 0.3,
+        "para2": 0.1,
+        "para3": "",
+        "name_zh-CN": "护盾",
+        "desc_zh-CN": "生命<30%时生成10%减伤的护盾"
+    },
+    {
+        "dragon_nature_id": 10,
+        "para1": 0.3,
+        "para2": "",
+        "para3": "",
+        "name_zh-CN": "警觉",
+        "desc_zh-CN": "30%的概率，闪避敌人的攻击"
+    },
+    {
+        "dragon_nature_id": 11,
+        "para1": 0.1,
+        "para2": 0.05,
+        "para3": "",
+        "name_zh-CN": "刚毅",
+        "desc_zh-CN": "生命每降低10%，防御+5%"
+    },
+    {
+        "dragon_nature_id": 12,
+        "para1": 0.7,
+        "para2": 0.2,
+        "para3": "",
+        "name_zh-CN": "沉稳",
+        "desc_zh-CN": "生命>70%时，获得额外20%的防御"
+    },
+    {
+        "dragon_nature_id": 13,
+        "para1": 0.3,
+        "para2": 5.0,
+        "para3": 3.0,
+        "name_zh-CN": "狂怒",
+        "desc_zh-CN": "生命<30%时，每遭受到其它龙5次攻击后，产生一次300%的暴击"
+    },
+    {
+        "dragon_nature_id": 14,
+        "para1": 0.7,
+        "para2": 0.25,
+        "para3": "",
+        "name_zh-CN": "重创",
+        "desc_zh-CN": "​对生命>70%的目标的伤害+25%"
+    },
+    {
+        "dragon_nature_id": 15,
+        "para1": 0.2,
+        "para2": 0.3,
+        "para3": 10.0,
+        "name_zh-CN": "牵制",
+        "desc_zh-CN": "攻击有20%概率导致对方攻速降低30%，持续10秒"
+    },
+    {
+        "dragon_nature_id": 16,
+        "para1": 0.2,
+        "para2": 0.3,
+        "para3": 10.0,
+        "name_zh-CN": "反制",
+        "desc_zh-CN": "​受击时，有20%概率，降低攻击者30%攻速，持续10秒"
+    },
+    {
+        "dragon_nature_id": 17,
+        "para1": 0.3,
+        "para2": 0.1,
+        "para3": "",
+        "name_zh-CN": "冷血",
+        "desc_zh-CN": "对生命<30%的目标，伤害+10%"
+    },
+    {
+        "dragon_nature_id": 18,
+        "para1": 0.25,
+        "para2": 20.0,
+        "para3": "",
+        "name_zh-CN": "血誓",
+        "desc_zh-CN": "死亡后，己方所有龙的攻击力+25%，持续20秒"
+    }
+]

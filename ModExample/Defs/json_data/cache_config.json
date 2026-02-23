@@ -1,0 +1,14 @@
+[
+    {
+        "prefab_name": "stuff_on_map",
+        "cache_count_max": 100
+    },
+    {
+        "prefab_name": "npc_footprint",
+        "cache_count_max": 1000
+    },
+    {
+        "prefab_name": "stuff_icon_num",
+        "cache_count_max": 300
+    }
+]

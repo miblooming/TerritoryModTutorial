@@ -1,0 +1,332 @@
+[
+    {
+        "summary_notice_id": 110,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_improper",
+        "color": "gray",
+        "msg_zh-CN": "工作岗位超员 x"
+    },
+    {
+        "summary_notice_id": 120,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_no_house",
+        "color": "red",
+        "msg_zh-CN": "缺少床，睡地上 x"
+    },
+    {
+        "summary_notice_id": 130,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_no_tools",
+        "color": "yellow",
+        "msg_zh-CN": "缺少工具，效率低 x"
+    },
+    {
+        "summary_notice_id": 140,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_no_clothes",
+        "color": "yellow",
+        "msg_zh-CN": "破烂衣服，不保暖 x"
+    },
+    {
+        "summary_notice_id": 150,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_npc_no_work",
+        "color": "yellow",
+        "msg_zh-CN": "人员闲置 x"
+    },
+    {
+        "summary_notice_id": 160,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_cold",
+        "color": "red",
+        "msg_zh-CN": "挨冻 x"
+    },
+    {
+        "summary_notice_id": 170,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_npc_ill",
+        "color": "yellow",
+        "msg_zh-CN": "生病 x"
+    },
+    {
+        "summary_notice_id": 180,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_npc_ill",
+        "color": "red",
+        "msg_zh-CN": "得传染病 x"
+    },
+    {
+        "summary_notice_id": 190,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_hunger",
+        "color": "red",
+        "msg_zh-CN": "挨饿 x"
+    },
+    {
+        "summary_notice_id": 200,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_gastroenteritis",
+        "color": "red",
+        "msg_zh-CN": "吃生食，消化不良(有患肠胃炎风险) x"
+    },
+    {
+        "summary_notice_id": 210,
+        "threshold": 50,
+        "threshold_max": 200,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_stuff",
+        "color": "gray",
+        "msg_zh-CN": "地面物品 x"
+    },
+    {
+        "summary_notice_id": 220,
+        "threshold": 200,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_stuff",
+        "color": "yellow",
+        "msg_zh-CN": "捡物品任务繁重，地面物品 x"
+    },
+    {
+        "summary_notice_id": 230,
+        "threshold": 50,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_stuff_battle",
+        "color": "gray",
+        "msg_zh-CN": "地面战斗掉落物品 x"
+    },
+    {
+        "summary_notice_id": 240,
+        "threshold": 100,
+        "threshold_max": 200,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_collect",
+        "color": "gray",
+        "msg_zh-CN": "采集任务 x"
+    },
+    {
+        "summary_notice_id": 250,
+        "threshold": 200,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_collect",
+        "color": "yellow",
+        "msg_zh-CN": "采集任务繁重，采集任务 x"
+    },
+    {
+        "summary_notice_id": 260,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_dead_body",
+        "color": "gray",
+        "msg_zh-CN": "未收拾的尸体 x"
+    },
+    {
+        "summary_notice_id": 270,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_noble",
+        "color": "gray",
+        "msg_zh-CN": "单身贵族 x"
+    },
+    {
+        "summary_notice_id": 280,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_animal",
+        "color": "gray",
+        "msg_zh-CN": "未被牧场圈养的动物 x"
+    },
+    {
+        "summary_notice_id": 290,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_has_npc_not_marry",
+        "color": "gray",
+        "msg_zh-CN": "因幸福度较低(未超60)，而不愿成家 x"
+    },
+    {
+        "summary_notice_id": 300,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_prisoner",
+        "color": "gray",
+        "msg_zh-CN": "囚犯无人看管中 x"
+    },
+    {
+        "summary_notice_id": 310,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 0,
+        "clickable": 0,
+        "ic": "ui_summary_notice_research",
+        "color": "yellow",
+        "msg_zh-CN": "未建造研究台"
+    },
+    {
+        "summary_notice_id": 320,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 0,
+        "clickable": 0,
+        "ic": "ui_summary_notice_build",
+        "color": "yellow",
+        "msg_zh-CN": "未分配建筑工"
+    },
+    {
+        "summary_notice_id": 330,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 0,
+        "clickable": 0,
+        "ic": "ui_summary_notice_famine",
+        "color": "yellow",
+        "msg_zh-CN": "饥荒爆发,\n建筑工忍饥挨饿，加紧建造,\n搬运工忍饥挨饿，加紧运输,\n渔夫/农夫/采集工加紧生产，并优先享用食物"
+    },
+    {
+        "summary_notice_id": 340,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 0,
+        "clickable": 0,
+        "ic": "ui_summary_notice_watering",
+        "color": "gray",
+        "msg_zh-CN": "农田无水灌溉，需建取水点或水井"
+    },
+    {
+        "summary_notice_id": 350,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 0,
+        "clickable": 0,
+        "ic": "ui_summary_notice_wine_aking",
+        "color": "gray",
+        "msg_zh-CN": "无水酿酒，需建取水点或水井"
+    },
+    {
+        "summary_notice_id": 360,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 0,
+        "clickable": 0,
+        "ic": "ui_summary_notice_no_handyman",
+        "color": "red",
+        "msg_zh-CN": "杂工从事采集/搬运/生火/救人等工作，需保持一定数量"
+    },
+    {
+        "summary_notice_id": 370,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 0,
+        "clickable": 0,
+        "ic": "ui_summary_notice_barracks",
+        "color": "red",
+        "msg_zh-CN": "军营缺少后勤兵"
+    },
+    {
+        "summary_notice_id": 380,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 0,
+        "clickable": 0,
+        "ic": "ui_summary_notice_walk_fast",
+        "color": "green",
+        "msg_zh-CN": "看着满地鱼虾，村民们充满干劲，行动速度 x2"
+    },
+    {
+        "summary_notice_id": 390,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_mine_empty",
+        "color": "gray",
+        "msg_zh-CN": "矿井已被采空 x"
+    },
+    {
+        "summary_notice_id": 400,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_npc_has_no_belief",
+        "color": "gray",
+        "msg_zh-CN": "无信仰，需建造布道台 x"
+    },
+    {
+        "summary_notice_id": 410,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_abandoned_enemy_camp",
+        "color": "green",
+        "msg_zh-CN": "敌人放弃的营地 x"
+    },
+    {
+        "summary_notice_id": 420,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_quarry_empty",
+        "color": "gray",
+        "msg_zh-CN": "采石场已被采空 x"
+    },
+    {
+        "summary_notice_id": 430,
+        "threshold": 0,
+        "threshold_max": 0,
+        "show_num_on_tip_msg": 1,
+        "clickable": 1,
+        "ic": "ui_summary_notice_npc_shocked",
+        "color": "red",
+        "msg_zh-CN": "晕倒的居民 x"
+    }
+]

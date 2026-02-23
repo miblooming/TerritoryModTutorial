@@ -1,0 +1,578 @@
+[
+    {
+        "condition_type": 5,
+        "stuff_id": 1,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 1,
+        "tutorial_id": 1,
+        "tutorial_desc_zh-CN": "先安排一下居民的工作吧。\n鼠标移动到<color=#EE4242>左下角</color>，工作分配面板，\n点“<color=#EE4242>加号</color>”，增加职业工人数量，使其开始从事职业工作。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105006,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 4,
+        "tutorial_id": 4,
+        "tutorial_desc_zh-CN": "在森林中建造1个采集营地，可获得不少野菜和野果，\n这将帮助我们渡过艰难的开荒期。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30018,
+        "count": 3,
+        "product_id": 0,
+        "txt_id": 5,
+        "tutorial_id": 5,
+        "tutorial_desc_zh-CN": "安排采集者后，采集营地即可正常运转。"
+    },
+    {
+        "condition_type": 5,
+        "stuff_id": 3,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 3,
+        "tutorial_id": 3,
+        "tutorial_desc_zh-CN": "安排采集任务，以获得更多建造和生产材料：\n原木，石料和铁矿。"
+    },
+    {
+        "condition_type": 5,
+        "stuff_id": 1001,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 1001,
+        "tutorial_id": 1001,
+        "tutorial_desc_zh-CN": "任务可提升优先级，尽快完成。"
+    },
+    {
+        "condition_type": 5,
+        "stuff_id": 1002,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 1002,
+        "tutorial_id": 1002,
+        "tutorial_desc_zh-CN": "取消过多的任务，让居民有时间从事其它工作。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104013,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 6,
+        "tutorial_id": 6,
+        "tutorial_desc_zh-CN": "为抵御严寒，需生火了，这里的冬天会冻死人。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 101002,
+        "count": 5,
+        "product_id": 0,
+        "txt_id": 10,
+        "tutorial_id": 10,
+        "tutorial_desc_zh-CN": "建造供夫妻使用的大床，它们才会考虑生小孩。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105005,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 21,
+        "tutorial_id": 21,
+        "tutorial_desc_zh-CN": "附近有鹿群出没，让猎人去狩猎，可获得丰富的皮革和肉。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30023,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 22,
+        "tutorial_id": 22,
+        "tutorial_desc_zh-CN": "需安排1个猎人。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 102007,
+        "count": 2,
+        "product_id": 0,
+        "txt_id": 8,
+        "tutorial_id": 8,
+        "tutorial_desc_zh-CN": "在居民经常活动的方向建造门，可以减少绕路，节省时间。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105004,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 28,
+        "tutorial_id": 28,
+        "tutorial_desc_zh-CN": "捕鱼是重要的肉类来源。\n渔人码头附近的水域面积越大，每年渔获上限越高。\n建造时，可<color=#EE4242>旋转</color>设施，以适应地形。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30020,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 29,
+        "tutorial_id": 29,
+        "tutorial_desc_zh-CN": "默认最多可安排4个渔民，但上限也可以在渔人码头的界面上，自由调整。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 102001,
+        "count": 10,
+        "product_id": 0,
+        "txt_id": 23,
+        "tutorial_id": 23,
+        "tutorial_desc_zh-CN": "建造一条连接采集营地的土路，可提高生产效率。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104004,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 44,
+        "tutorial_id": 44,
+        "tutorial_desc_zh-CN": "信仰就是力量！信仰创造奇迹！"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30031,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 45,
+        "tutorial_id": 45,
+        "tutorial_desc_zh-CN": "需安排先知。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104017,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 25,
+        "tutorial_id": 25,
+        "tutorial_desc_zh-CN": "建造研究台，可解锁更多的科技。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30026,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 26,
+        "tutorial_id": 26,
+        "tutorial_desc_zh-CN": "需安排1个学者。"
+    },
+    {
+        "condition_type": 5,
+        "stuff_id": 2,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 27,
+        "tutorial_id": 27,
+        "tutorial_desc_zh-CN": "点击菜单栏上的“研究”按钮，可打开研究界面"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105001,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 31,
+        "tutorial_id": 31,
+        "tutorial_desc_zh-CN": "采集狩猎不是长久之计，种田才能养活更多人口。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30013,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 32,
+        "tutorial_id": 32,
+        "tutorial_desc_zh-CN": "需安排农民耕种。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105019,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 33,
+        "tutorial_id": 33,
+        "tutorial_desc_zh-CN": "在河流边上，可低成本建造取水点，灌溉农田，增加产量。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105028,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 19,
+        "tutorial_id": 19,
+        "tutorial_desc_zh-CN": "铁矿需冶炼后，才能用于生产。\n建在料堆旁，可减少搬运时间，提高生产效率。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30041,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 20,
+        "tutorial_id": 20,
+        "tutorial_desc_zh-CN": "需安排铁匠。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104012,
+        "count": 2,
+        "product_id": 0,
+        "txt_id": 30,
+        "tutorial_id": 30,
+        "tutorial_desc_zh-CN": "在偏远的工作场所，建造火把，居民可就近取暖，节省时间。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105003,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 34,
+        "tutorial_id": 34,
+        "tutorial_desc_zh-CN": "动物已经被放养很久了，将它们圈养起来，可获得额外的收益。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105001,
+        "count": 1,
+        "product_id": 702004,
+        "txt_id": 35,
+        "tutorial_id": 35,
+        "tutorial_desc_zh-CN": "种植牧草，为动物提供充足的饲料，可促进动物生长和产出。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104021,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 24,
+        "tutorial_id": 24,
+        "tutorial_desc_zh-CN": "注意有居民随地排泄！需建造厕所。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105015,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 36,
+        "tutorial_id": 36,
+        "tutorial_desc_zh-CN": "粪便需在堆肥桶中，才能发酵成肥料。\n厕所和牧场是粪便的主要来源，堆肥桶就近放置，可节省粪便运输时间。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104007,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 39,
+        "tutorial_id": 39,
+        "tutorial_desc_zh-CN": "生病是不可避免的事，有病得及时治疗。拖得太久，小病变成大病，甚至可能有生命危险。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104008,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 40,
+        "tutorial_id": 40,
+        "tutorial_desc_zh-CN": "医疗床收治病人，可加速康复。\n特别是，那些本身没有分配到床，平时睡地上的居民，万一生病晕倒，又找不到医疗床位，他们将无法及时获得治疗，有可能导致死亡。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105009,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 41,
+        "tutorial_id": 41,
+        "tutorial_desc_zh-CN": "在森林中的古树附近，可找到草药。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105008,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 42,
+        "tutorial_id": 42,
+        "tutorial_desc_zh-CN": "持续砍伐，会导致森林越来越少。边种树边砍树，才能实现可持续发展。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30028,
+        "count": 2,
+        "product_id": 0,
+        "txt_id": 43,
+        "tutorial_id": 43,
+        "tutorial_desc_zh-CN": "需安排护林人。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 109005,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 46,
+        "tutorial_id": 46,
+        "tutorial_desc_zh-CN": "建造国库，积累研究资金。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105023,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 47,
+        "tutorial_id": 47,
+        "tutorial_desc_zh-CN": "珍贵的蜜糖，除了冒险去掏野生的巨型蜂巢，也可以养蜂获得。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30027,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 48,
+        "tutorial_id": 48,
+        "tutorial_desc_zh-CN": "需安排蜂农。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105012,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 51,
+        "tutorial_id": 51,
+        "tutorial_desc_zh-CN": "为辛勤劳作的居民，提供美酒，可以显著提升他们的幸福度。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30012,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 52,
+        "tutorial_id": 52,
+        "tutorial_desc_zh-CN": "需安排酿造师。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 103008,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 55,
+        "tutorial_id": 55,
+        "tutorial_desc_zh-CN": "在农田，果园，渔人码头等生产设施附近，建造周转箱，让生产者专心生产，让杂工满负荷搬运，是提高效率的关键。\n注意：周转箱的“绿色箭头”与生产设施的”绿色箭头“重叠时，会形成关联关系，产品会优先直接放入周转箱中。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 103004,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 56,
+        "tutorial_id": 56,
+        "tutorial_desc_zh-CN": "开展贸易，旅行商人会每年拜访，交易物资。\n还可以解锁更多种子和动物。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 103006,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 57,
+        "tutorial_id": 57,
+        "tutorial_desc_zh-CN": "引导商人从你感觉最合适的地方进入领地。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105032,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 58,
+        "tutorial_id": 58,
+        "tutorial_desc_zh-CN": "将谷物磨成面粉，可制作更好的食物。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104014,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 61,
+        "tutorial_id": 61,
+        "tutorial_desc_zh-CN": "为居民建造壁炉。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 102004,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 62,
+        "tutorial_id": 62,
+        "tutorial_desc_zh-CN": "山上有着更加丰富的资源。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105020,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 63,
+        "tutorial_id": 63,
+        "tutorial_desc_zh-CN": "挖山可获得更平整的土地，同时也可获得充足的石料。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30024,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 64,
+        "tutorial_id": 64,
+        "tutorial_desc_zh-CN": "需安排石匠。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105014,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 65,
+        "tutorial_id": 65,
+        "tutorial_desc_zh-CN": "如果山地离得较远，在平原上可以就近建造采石场，开采地下的石料。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30024,
+        "count": 5,
+        "product_id": 0,
+        "txt_id": 66,
+        "tutorial_id": 66,
+        "tutorial_desc_zh-CN": "需安排更多石匠。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 103003,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 67,
+        "tutorial_id": 67,
+        "tutorial_desc_zh-CN": "设置计划库存，将物品集中到指定位置。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104019,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 68,
+        "tutorial_id": 68,
+        "tutorial_desc_zh-CN": "为过往旅客提供服务，赚取收益。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30039,
+        "count": 2,
+        "product_id": 0,
+        "txt_id": 69,
+        "tutorial_id": 69,
+        "tutorial_desc_zh-CN": "安排两个服务员，一个负责接待，一个负责搬运物品。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104002,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 74,
+        "tutorial_id": 74,
+        "tutorial_desc_zh-CN": "教育是第一生产力。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30026,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 75,
+        "tutorial_id": 75,
+        "tutorial_desc_zh-CN": "安排一个学者，作为老师。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104015,
+        "count": 20,
+        "product_id": 0,
+        "txt_id": 76,
+        "tutorial_id": 76,
+        "tutorial_desc_zh-CN": "为学生听课，准备一些椅子。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105013,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 77,
+        "tutorial_id": 77,
+        "tutorial_desc_zh-CN": "挖掘地下丰富的矿藏。"
+    },
+    {
+        "condition_type": 4,
+        "stuff_id": 30022,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 78,
+        "tutorial_id": 78,
+        "tutorial_desc_zh-CN": "需安排矿工。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 106001,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 85,
+        "tutorial_id": 85,
+        "tutorial_desc_zh-CN": "开始征战的生涯。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104017,
+        "count": 2,
+        "product_id": 0,
+        "txt_id": 92,
+        "tutorial_id": 92,
+        "tutorial_desc_zh-CN": "建造多个研究台，同时开展研究工作，可加快研究进度。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104004,
+        "count": 2,
+        "product_id": 0,
+        "txt_id": 93,
+        "tutorial_id": 93,
+        "tutorial_desc_zh-CN": "建造多个布道台，更多的先知可加速信仰之力的恢复速度。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 105025,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 86,
+        "tutorial_id": 86,
+        "tutorial_desc_zh-CN": "在战斗中，生命药水是不可或缺的物资。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 104005,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 71,
+        "tutorial_id": 71,
+        "tutorial_desc_zh-CN": "让逝者安息！"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 103005,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 70,
+        "tutorial_id": 70,
+        "tutorial_desc_zh-CN": "在领地边境开展大规模贸易。\n四个方向可买和卖物品种类不同。"
+    },
+    {
+        "condition_type": 1,
+        "stuff_id": 103012,
+        "count": 1,
+        "product_id": 0,
+        "txt_id": 80,
+        "tutorial_id": 80,
+        "tutorial_desc_zh-CN": "越来越繁重的运输任务，需要马车来应对。"
+    }
+]

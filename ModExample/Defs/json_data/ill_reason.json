@@ -1,0 +1,51 @@
+[
+    {
+        "ill_reason_id": 401,
+        "ill_id": 1,
+        "ill_reason_desc": "穿破烂衣服，淋雨着凉,需休养",
+        "ill_reason_icon": "notice_npc_ill_catch_cold",
+        "desc_zh-CN": "穿破烂衣服，淋雨着凉,需休养"
+    },
+    {
+        "ill_reason_id": 402,
+        "ill_id": 1,
+        "ill_reason_desc": "穿破烂衣服，受冻着凉，需休养",
+        "ill_reason_icon": "notice_npc_ill_catch_cold",
+        "desc_zh-CN": "穿破烂衣服，受冻着凉，需休养"
+    },
+    {
+        "ill_reason_id": 403,
+        "ill_id": 2,
+        "ill_reason_desc": "长期营养不良，需看医生，吃药治疗",
+        "ill_reason_icon": "notice_npc_ill_innutrition",
+        "desc_zh-CN": "长期营养不良，需看医生，吃药治疗"
+    },
+    {
+        "ill_reason_id": 404,
+        "ill_id": 3,
+        "ill_reason_desc": "被传染，需看医生，吃药治疗",
+        "ill_reason_icon": "notice_npc_ill",
+        "desc_zh-CN": "被传染，需看医生，吃药治疗"
+    },
+    {
+        "ill_reason_id": 405,
+        "ill_id": 4,
+        "ill_reason_desc": "战斗创伤，需休养",
+        "ill_reason_icon": "notice_npc_ill_injured_by_battle",
+        "desc_zh-CN": "战斗创伤，需休养"
+    },
+    {
+        "ill_reason_id": 407,
+        "ill_id": 5,
+        "ill_reason_desc": "长期睡地上(超过三年），需休养",
+        "ill_reason_icon": "notice_npc_ill_arthritis",
+        "desc_zh-CN": "长期睡地上(超过三年），需休养"
+    },
+    {
+        "ill_reason_id": 408,
+        "ill_id": 6,
+        "ill_reason_desc": "蚊子叮咬，不幸感染，需看医生，吃药治疗",
+        "ill_reason_icon": "notice_npc_ill_malaria",
+        "desc_zh-CN": "蚊子叮咬，不幸感染，需看医生，吃药治疗"
+    }
+]

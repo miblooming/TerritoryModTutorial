@@ -1,0 +1,1710 @@
+[
+    {
+        "txt_id": 100,
+        "tech_id": 0,
+        "facility_id": 100001,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 200,
+        "tech_id": 0,
+        "facility_id": 101001,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 201,
+        "tech_id": 0,
+        "facility_id": 105031,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 300,
+        "tech_id": 0,
+        "facility_id": 105016,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "加工制作食物，提高食物利用率和保质期"
+    },
+    {
+        "txt_id": 600,
+        "tech_id": 0,
+        "facility_id": 102001,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 700,
+        "tech_id": 902003,
+        "facility_id": 102002,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "进一步提高居民移动速度"
+    },
+    {
+        "txt_id": 800,
+        "tech_id": 0,
+        "facility_id": 102003,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "木制简易小桥，跨越河流，连通两岸"
+    },
+    {
+        "txt_id": 900,
+        "tech_id": 902002,
+        "facility_id": 102004,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "让居民可以上山采集资源"
+    },
+    {
+        "txt_id": 1000,
+        "tech_id": 0,
+        "facility_id": 102005,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 1100,
+        "tech_id": 0,
+        "facility_id": 102007,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 1200,
+        "tech_id": 902005,
+        "facility_id": 103004,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "与旅行商人进行交易"
+    },
+    {
+        "txt_id": 1300,
+        "tech_id": 902005,
+        "facility_id": 103006,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "指定商人从什么位置，进入地图"
+    },
+    {
+        "txt_id": 1400,
+        "tech_id": 902003,
+        "facility_id": 102006,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "建造更结实的墙"
+    },
+    {
+        "txt_id": 1401,
+        "tech_id": 902003,
+        "facility_id": 102013,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 1500,
+        "tech_id": 0,
+        "facility_id": 103001,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 1600,
+        "tech_id": 0,
+        "facility_id": 103002,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 1800,
+        "tech_id": 902061,
+        "facility_id": 103003,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "批量运输，集散物资，供居民使用，减少居民跑腿时间"
+    },
+    {
+        "txt_id": 1900,
+        "tech_id": 902144,
+        "facility_id": 109005,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "建造国库，集中物资，用于外交或上贡，禁止居民使用"
+    },
+    {
+        "txt_id": 2000,
+        "tech_id": 902004,
+        "facility_id": 103008,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "临时存储产品，然后批量运输，节省时间"
+    },
+    {
+        "txt_id": 2100,
+        "tech_id": 902006,
+        "facility_id": 103010,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "布施食物，招揽流民"
+    },
+    {
+        "txt_id": 2200,
+        "tech_id": 902008,
+        "facility_id": 104002,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "让居民接受教育培训，提升工作效率，增加产量"
+    },
+    {
+        "txt_id": 2300,
+        "tech_id": 902008,
+        "facility_id": 104015,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 2400,
+        "tech_id": 902009,
+        "facility_id": 104004,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "先知传递信仰，可提高居民幸福度，收集信仰之力，使用魔法。"
+    },
+    {
+        "txt_id": 2401,
+        "tech_id": 902009,
+        "facility_id": 104031,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 2500,
+        "tech_id": 902016,
+        "facility_id": 104005,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "安葬去世居民，减轻家属悲伤"
+    },
+    {
+        "txt_id": 2600,
+        "tech_id": 902016,
+        "facility_id": 104016,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "组织附近居民集中就餐，提供特定食物"
+    },
+    {
+        "txt_id": 2700,
+        "tech_id": 902010,
+        "facility_id": 104007,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "为居民提供医疗诊断"
+    },
+    {
+        "txt_id": 2800,
+        "tech_id": 902010,
+        "facility_id": 104008,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "加快居民恢复身体健康"
+    },
+    {
+        "txt_id": 2900,
+        "tech_id": 902016,
+        "facility_id": 104011,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "举办篝火晚会，让居民更容易找到另一半"
+    },
+    {
+        "txt_id": 3100,
+        "tech_id": 0,
+        "facility_id": 104013,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 3200,
+        "tech_id": 902007,
+        "facility_id": 105012,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "酿造美酒，提升居民幸福"
+    },
+    {
+        "txt_id": 3300,
+        "tech_id": 902007,
+        "facility_id": 105019,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "取水用于酿造"
+    },
+    {
+        "txt_id": 3400,
+        "tech_id": 902012,
+        "facility_id": 105008,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "砍伐与植树并重，实现木材的可持续产出"
+    },
+    {
+        "txt_id": 3500,
+        "tech_id": 902010,
+        "facility_id": 105009,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "采集草药"
+    },
+    {
+        "txt_id": 3600,
+        "tech_id": 902011,
+        "facility_id": 105025,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "炼制药物，增强居民体质，延年益寿"
+    },
+    {
+        "txt_id": 3700,
+        "tech_id": 0,
+        "facility_id": 105007,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 3800,
+        "tech_id": 902014,
+        "facility_id": 105013,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "在山地边缘建造矿井，开采铁矿，煤炭，或稀有金属矿"
+    },
+    {
+        "txt_id": 3900,
+        "tech_id": 902091,
+        "facility_id": 105020,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "开挖山中的石料，移除山地"
+    },
+    {
+        "txt_id": 4000,
+        "tech_id": 902015,
+        "facility_id": 105014,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "挖掘埋在地下的石料"
+    },
+    {
+        "txt_id": 4100,
+        "tech_id": 902017,
+        "facility_id": 104001,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "让农民可就近取水，提高生产效率"
+    },
+    {
+        "txt_id": 4200,
+        "tech_id": 902018,
+        "facility_id": 105015,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "将动物粪便和腐败食物，转化为肥料，撒在农田中增加产量"
+    },
+    {
+        "txt_id": 4300,
+        "tech_id": 902019,
+        "facility_id": 902019,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 4400,
+        "tech_id": 902020,
+        "facility_id": 902020,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 4500,
+        "tech_id": 902021,
+        "facility_id": 902021,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 4600,
+        "tech_id": 902022,
+        "facility_id": 105006,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "在野外获得食物"
+    },
+    {
+        "txt_id": 4700,
+        "tech_id": 902023,
+        "facility_id": 105017,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "设置兽夹，捕获路过野生动物，杀死路过的怪物"
+    },
+    {
+        "txt_id": 4800,
+        "tech_id": 902024,
+        "facility_id": 105018,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "设置蟹笼，捕捞水产，收获颇丰"
+    },
+    {
+        "txt_id": 5000,
+        "tech_id": 902013,
+        "facility_id": 105010,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "制造工具和武器等"
+    },
+    {
+        "txt_id": 5100,
+        "tech_id": 902013,
+        "facility_id": 105011,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "将皮毛制作成衣服"
+    },
+    {
+        "txt_id": 5200,
+        "tech_id": 902025,
+        "facility_id": 106001,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "招募士兵，保卫家园"
+    },
+    {
+        "txt_id": 5300,
+        "tech_id": 902074,
+        "facility_id": 106002,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "关押，审讯，劝降战斗中俘虏的敌人"
+    },
+    {
+        "txt_id": 5400,
+        "tech_id": 902026,
+        "facility_id": 413003,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造精良武器"
+    },
+    {
+        "txt_id": 5500,
+        "tech_id": 902027,
+        "facility_id": 415003,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造精良盔甲"
+    },
+    {
+        "txt_id": 5600,
+        "tech_id": 902028,
+        "facility_id": 414003,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造精良盾牌"
+    },
+    {
+        "txt_id": 5700,
+        "tech_id": 902029,
+        "facility_id": 413004,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造高级武器"
+    },
+    {
+        "txt_id": 5800,
+        "tech_id": 902030,
+        "facility_id": 415004,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造高级盔甲"
+    },
+    {
+        "txt_id": 5900,
+        "tech_id": 902031,
+        "facility_id": 414004,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造高级盾牌"
+    },
+    {
+        "txt_id": 6000,
+        "tech_id": 902032,
+        "facility_id": 902032,
+        "seed_id": 901001,
+        "event_id": "",
+        "tech_desc_zh-CN": "可让人们信仰一神教"
+    },
+    {
+        "txt_id": 6100,
+        "tech_id": 902033,
+        "facility_id": 902033,
+        "seed_id": 901002,
+        "event_id": "",
+        "tech_desc_zh-CN": "可让人们信仰仁义道"
+    },
+    {
+        "txt_id": 6200,
+        "tech_id": 902032,
+        "facility_id": "",
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 6300,
+        "tech_id": 902033,
+        "facility_id": "",
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 6400,
+        "tech_id": 902034,
+        "facility_id": 105005,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "通过狩猎，获得肉类和皮毛"
+    },
+    {
+        "txt_id": 6500,
+        "tech_id": 902035,
+        "facility_id": 105004,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "到水中捕鱼，获得肉类"
+    },
+    {
+        "txt_id": 6600,
+        "tech_id": 902036,
+        "facility_id": 105001,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "种植农作物"
+    },
+    {
+        "txt_id": 6800,
+        "tech_id": 902036,
+        "facility_id": 105019,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "取水用于农业灌溉，或酒类酿造"
+    },
+    {
+        "txt_id": 6900,
+        "tech_id": 902037,
+        "facility_id": 105003,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可饲养动物鸡，牛，羊，马，猪或驯狼"
+    },
+    {
+        "txt_id": 7000,
+        "tech_id": 902038,
+        "facility_id": 105023,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可饲养蜜蜂，获得高级食材：蜂蜜"
+    },
+    {
+        "txt_id": 7100,
+        "tech_id": 902039,
+        "facility_id": 104018,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "养花，赏花提高幸福度。也可作为蜂蜜的蜜源"
+    },
+    {
+        "txt_id": 7101,
+        "tech_id": 902039,
+        "facility_id": 104028,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 7102,
+        "tech_id": 902039,
+        "facility_id": 104029,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 7103,
+        "tech_id": 902039,
+        "facility_id": 104030,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 7200,
+        "tech_id": 902040,
+        "facility_id": 413005,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造稀有武器"
+    },
+    {
+        "txt_id": 7300,
+        "tech_id": 902041,
+        "facility_id": 415005,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造稀有盔甲"
+    },
+    {
+        "txt_id": 7400,
+        "tech_id": 902042,
+        "facility_id": 414005,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造稀有盾牌"
+    },
+    {
+        "txt_id": 7500,
+        "tech_id": 902043,
+        "facility_id": 413006,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造特殊武器"
+    },
+    {
+        "txt_id": 7600,
+        "tech_id": 902044,
+        "facility_id": 415006,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造特殊盔甲"
+    },
+    {
+        "txt_id": 7700,
+        "tech_id": 902045,
+        "facility_id": 414006,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造特殊盾牌"
+    },
+    {
+        "txt_id": 7800,
+        "tech_id": 902046,
+        "facility_id": 413007,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造极品武器"
+    },
+    {
+        "txt_id": 7900,
+        "tech_id": 902047,
+        "facility_id": 415007,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造极品盔甲"
+    },
+    {
+        "txt_id": 8000,
+        "tech_id": 902048,
+        "facility_id": 414007,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造极品盾牌"
+    },
+    {
+        "txt_id": 8100,
+        "tech_id": 902049,
+        "facility_id": 413002,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造普通武器"
+    },
+    {
+        "txt_id": 8200,
+        "tech_id": 902050,
+        "facility_id": 415002,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造普通盔甲"
+    },
+    {
+        "txt_id": 8300,
+        "tech_id": 902051,
+        "facility_id": 414002,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造普通盾牌"
+    },
+    {
+        "txt_id": 8400,
+        "tech_id": 902068,
+        "facility_id": 413008,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造传说武器"
+    },
+    {
+        "txt_id": 8500,
+        "tech_id": 902069,
+        "facility_id": 415008,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造传说盔甲"
+    },
+    {
+        "txt_id": 8600,
+        "tech_id": 902070,
+        "facility_id": 414008,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造传说盾牌"
+    },
+    {
+        "txt_id": 8700,
+        "tech_id": 902071,
+        "facility_id": 413009,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造史诗武器"
+    },
+    {
+        "txt_id": 8800,
+        "tech_id": 902072,
+        "facility_id": 415009,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造史诗盔甲"
+    },
+    {
+        "txt_id": 8900,
+        "tech_id": 902073,
+        "facility_id": 414009,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可制造史诗盾牌"
+    },
+    {
+        "txt_id": 9000,
+        "tech_id": 0,
+        "facility_id": 202403,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 9100,
+        "tech_id": 0,
+        "facility_id": 202303,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 9200,
+        "tech_id": 0,
+        "facility_id": 202503,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 9300,
+        "tech_id": 0,
+        "facility_id": 202101,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 9400,
+        "tech_id": 902052,
+        "facility_id": 202401,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募剑士，武术高超"
+    },
+    {
+        "txt_id": 9500,
+        "tech_id": 902052,
+        "facility_id": 202405,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募长枪兵，拥有更大的攻击范围"
+    },
+    {
+        "txt_id": 9600,
+        "tech_id": 902053,
+        "facility_id": 202301,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募弓箭兵，远距离袭击"
+    },
+    {
+        "txt_id": 9700,
+        "tech_id": 902055,
+        "facility_id": 202501,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募刀盾兵，攻守兼备"
+    },
+    {
+        "txt_id": 9800,
+        "tech_id": 902056,
+        "facility_id": 202502,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募巨盾兵，防守一流"
+    },
+    {
+        "txt_id": 9900,
+        "tech_id": 902057,
+        "facility_id": 202601,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募弓骑兵，机动灵活，远距离袭击"
+    },
+    {
+        "txt_id": 10000,
+        "tech_id": 902128,
+        "facility_id": 202102,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募狼骑兵，机动灵活，智勇双全"
+    },
+    {
+        "txt_id": 10100,
+        "tech_id": 902059,
+        "facility_id": "",
+        "seed_id": 424001,
+        "event_id": ""
+    },
+    {
+        "txt_id": 10200,
+        "tech_id": 902060,
+        "facility_id": "",
+        "seed_id": 424002,
+        "event_id": ""
+    },
+    {
+        "txt_id": 10300,
+        "tech_id": 902120,
+        "facility_id": "",
+        "seed_id": 424003,
+        "event_id": ""
+    },
+    {
+        "txt_id": 10400,
+        "tech_id": 902063,
+        "facility_id": 105022,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可将水域改造为陆地"
+    },
+    {
+        "txt_id": 10500,
+        "tech_id": 902064,
+        "facility_id": 105021,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可将陆地挖掘成坑，引水成河"
+    },
+    {
+        "txt_id": 10600,
+        "tech_id": 902065,
+        "facility_id": 103005,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "在边境上，与四方的商人进行稳定的贸易往来，大规模买卖固定种类的商品"
+    },
+    {
+        "txt_id": 10700,
+        "tech_id": 902066,
+        "facility_id": "103012",
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可快速大批量运输货物"
+    },
+    {
+        "txt_id": 10800,
+        "tech_id": 1,
+        "facility_id": 105024,
+        "seed_id": "",
+        "event_id": 1013,
+        "tech_desc_zh-CN": "供奉雕像，触发神奇魔法"
+    },
+    {
+        "txt_id": 10900,
+        "tech_id": 902075,
+        "facility_id": 104014,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可更大范围供暖"
+    },
+    {
+        "txt_id": 11200,
+        "tech_id": 902077,
+        "facility_id": 420001,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "居民可随身携带食物等，提高效率"
+    },
+    {
+        "txt_id": 11300,
+        "tech_id": 902078,
+        "facility_id": 902078,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 11500,
+        "tech_id": 902080,
+        "facility_id": 902080,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 11600,
+        "tech_id": 902081,
+        "facility_id": 902081,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 11700,
+        "tech_id": 902082,
+        "facility_id": 902082,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 11800,
+        "tech_id": 902083,
+        "facility_id": 902083,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 11900,
+        "tech_id": 902084,
+        "facility_id": 103013,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可吸引和投喂怪物"
+    },
+    {
+        "txt_id": 12000,
+        "tech_id": 902085,
+        "facility_id": "",
+        "seed_id": 705001,
+        "event_id": ""
+    },
+    {
+        "txt_id": 12100,
+        "tech_id": 902086,
+        "facility_id": "",
+        "seed_id": 705002,
+        "event_id": ""
+    },
+    {
+        "txt_id": 12200,
+        "tech_id": 902087,
+        "facility_id": "",
+        "seed_id": 705003,
+        "event_id": ""
+    },
+    {
+        "txt_id": 12300,
+        "tech_id": 902088,
+        "facility_id": "",
+        "seed_id": 705004,
+        "event_id": ""
+    },
+    {
+        "txt_id": 12400,
+        "tech_id": 902089,
+        "facility_id": "",
+        "seed_id": 705005,
+        "event_id": ""
+    },
+    {
+        "txt_id": 12500,
+        "tech_id": 902090,
+        "facility_id": "102008",
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "高大的城墙，可阻挡一切敌人，包括飞行怪"
+    },
+    {
+        "txt_id": 12600,
+        "tech_id": 902090,
+        "facility_id": "102009",
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "城墙上的门"
+    },
+    {
+        "txt_id": 12700,
+        "tech_id": 902092,
+        "facility_id": 106003,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "大范围杀伤性武器"
+    },
+    {
+        "txt_id": 12800,
+        "tech_id": 902092,
+        "facility_id": "",
+        "seed_id": 423001,
+        "event_id": ""
+    },
+    {
+        "txt_id": 12900,
+        "tech_id": 902123,
+        "facility_id": 106006,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 13000,
+        "tech_id": 902094,
+        "facility_id": 105026,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可造船"
+    },
+    {
+        "txt_id": 13001,
+        "tech_id": 902094,
+        "facility_id": "",
+        "seed_id": 706001,
+        "event_id": "",
+        "tech_desc_zh-CN": "可进行海上航行，开展海上贸易"
+    },
+    {
+        "txt_id": 13100,
+        "tech_id": 902094,
+        "facility_id": 105027,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 13200,
+        "tech_id": 902093,
+        "facility_id": "",
+        "seed_id": 706002,
+        "event_id": "",
+        "tech_desc_zh-CN": "有战斗力的大船"
+    },
+    {
+        "txt_id": 13300,
+        "tech_id": 902095,
+        "facility_id": "",
+        "seed_id": 706003,
+        "event_id": "",
+        "tech_desc_zh-CN": "战斗力强悍的巨型舰船"
+    },
+    {
+        "txt_id": 13400,
+        "tech_id": 902096,
+        "facility_id": 111001,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 13500,
+        "tech_id": 902097,
+        "facility_id": "",
+        "seed_id": 423002,
+        "event_id": ""
+    },
+    {
+        "txt_id": 13600,
+        "tech_id": 902098,
+        "facility_id": 902098,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 13700,
+        "tech_id": 902099,
+        "facility_id": 104019,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "招待来往旅客，赚取利润，搜集外界的消息，接受或发布赏金任务"
+    },
+    {
+        "txt_id": 13800,
+        "tech_id": 902100,
+        "facility_id": "",
+        "seed_id": 423003,
+        "event_id": ""
+    },
+    {
+        "txt_id": 13900,
+        "tech_id": 902101,
+        "facility_id": 111002,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 14000,
+        "tech_id": 902102,
+        "facility_id": "",
+        "seed_id": 902102,
+        "event_id": ""
+    },
+    {
+        "txt_id": 14100,
+        "tech_id": 902103,
+        "facility_id": 202701,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募法师，使用魔法攻击敌人"
+    },
+    {
+        "txt_id": 14200,
+        "tech_id": 902103,
+        "facility_id": 202702,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募法师，使用魔法禁锢敌人"
+    },
+    {
+        "txt_id": 14300,
+        "tech_id": 902103,
+        "facility_id": 202703,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募法师，使用魔法为士兵回血"
+    },
+    {
+        "txt_id": 14400,
+        "tech_id": 902103,
+        "facility_id": 202704,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募法师，对敌人实施精神控制"
+    },
+    {
+        "txt_id": 14500,
+        "tech_id": 902104,
+        "facility_id": 101004,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可为蚁人，鼠人和猪人等群居种族，提供居住空间"
+    },
+    {
+        "txt_id": 14600,
+        "tech_id": 902105,
+        "facility_id": 102010,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可利用魔法，跨空间传送士兵"
+    },
+    {
+        "txt_id": 14700,
+        "tech_id": 902106,
+        "facility_id": 104020,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可举办活动宴会"
+    },
+    {
+        "txt_id": 14800,
+        "tech_id": 902018,
+        "facility_id": 104021,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 14900,
+        "tech_id": 902108,
+        "facility_id": 202404,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募狼战士，使用钩爪攻击或控制敌人"
+    },
+    {
+        "txt_id": 15000,
+        "tech_id": 902127,
+        "facility_id": 202304,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可招募贵族为火枪手，火枪类型随士兵等级变化，等级越高，杀伤力越大。"
+    },
+    {
+        "txt_id": 15100,
+        "tech_id": 902127,
+        "facility_id": "",
+        "seed_id": 428001,
+        "event_id": ""
+    },
+    {
+        "txt_id": 15200,
+        "tech_id": 902109,
+        "facility_id": 902109,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 15300,
+        "tech_id": 902110,
+        "facility_id": 902110,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "民兵可使用武器装备，提升战斗力"
+    },
+    {
+        "txt_id": 15400,
+        "tech_id": 902110,
+        "facility_id": 104022,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 15500,
+        "tech_id": 902111,
+        "facility_id": 902111,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可用行政手段对人口进行控制"
+    },
+    {
+        "txt_id": 15600,
+        "tech_id": 902112,
+        "facility_id": 424007,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 15700,
+        "tech_id": 902113,
+        "facility_id": 105032,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可以磨面粉，方便制作高级食物"
+    },
+    {
+        "txt_id": 15800,
+        "tech_id": 902114,
+        "facility_id": 424008,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "满足有文化的居民的精神需求"
+    },
+    {
+        "txt_id": 15900,
+        "tech_id": 902115,
+        "facility_id": 106004,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "方便快捷的小军营"
+    },
+    {
+        "txt_id": 16000,
+        "tech_id": 902116,
+        "facility_id": 105030,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可在室内种蘑菇"
+    },
+    {
+        "txt_id": 16100,
+        "tech_id": 902117,
+        "facility_id": 902117,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "先知可接受不幸的居民倾诉，并给其心灵安慰"
+    },
+    {
+        "txt_id": 16200,
+        "tech_id": 902118,
+        "facility_id": "111003",
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 16300,
+        "tech_id": 902118,
+        "facility_id": 906001,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 16400,
+        "tech_id": 902118,
+        "facility_id": 906002,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 16500,
+        "tech_id": 902118,
+        "facility_id": 906003,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 16600,
+        "tech_id": 902118,
+        "facility_id": 906004,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 16700,
+        "tech_id": 902118,
+        "facility_id": 906005,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 16800,
+        "tech_id": 902119,
+        "facility_id": "111004",
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 16900,
+        "tech_id": 902119,
+        "facility_id": 906006,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 17000,
+        "tech_id": 902119,
+        "facility_id": 906007,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 17100,
+        "tech_id": 902119,
+        "facility_id": 906008,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 17200,
+        "tech_id": 902119,
+        "facility_id": 906009,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 17300,
+        "tech_id": 902119,
+        "facility_id": 906010,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 17400,
+        "tech_id": 902119,
+        "facility_id": 906011,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 17500,
+        "tech_id": 902119,
+        "facility_id": 906012,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 17600,
+        "tech_id": 902121,
+        "facility_id": 101005,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "上下铺，供单身居民使用，节省空间"
+    },
+    {
+        "txt_id": 17700,
+        "tech_id": 902122,
+        "facility_id": 103009,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "将多余的食物，存入地下冰窖，作为应急储备"
+    },
+    {
+        "txt_id": 17800,
+        "tech_id": 902124,
+        "facility_id": 902124,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 17900,
+        "tech_id": 902125,
+        "facility_id": 902125,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 18000,
+        "tech_id": 902126,
+        "facility_id": 902126,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 18100,
+        "tech_id": 902129,
+        "facility_id": 106007,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "主动感知危险，以关闭城门，或召唤士兵战斗"
+    },
+    {
+        "txt_id": 18200,
+        "tech_id": 902130,
+        "facility_id": 105028,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 18300,
+        "tech_id": 902131,
+        "facility_id": "",
+        "seed_id": 603002,
+        "event_id": ""
+    },
+    {
+        "txt_id": 18400,
+        "tech_id": 902131,
+        "facility_id": "",
+        "seed_id": 603003,
+        "event_id": ""
+    },
+    {
+        "txt_id": 18500,
+        "tech_id": 902131,
+        "facility_id": "",
+        "seed_id": 603004,
+        "event_id": ""
+    },
+    {
+        "txt_id": 18600,
+        "tech_id": 902132,
+        "facility_id": 902132,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 18700,
+        "tech_id": 902133,
+        "facility_id": 106005,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 18800,
+        "tech_id": 902133,
+        "facility_id": 101003,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 18900,
+        "tech_id": 902133,
+        "facility_id": 101006,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19000,
+        "tech_id": 902134,
+        "facility_id": 902134,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19100,
+        "tech_id": 902135,
+        "facility_id": 113001,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19200,
+        "tech_id": 902136,
+        "facility_id": 113002,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19300,
+        "tech_id": 902137,
+        "facility_id": 113003,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19400,
+        "tech_id": 902138,
+        "facility_id": 113004,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19500,
+        "tech_id": 902139,
+        "facility_id": 113005,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19600,
+        "tech_id": 902140,
+        "facility_id": 104023,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19700,
+        "tech_id": 902140,
+        "facility_id": 104024,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19800,
+        "tech_id": 902140,
+        "facility_id": 104025,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 19900,
+        "tech_id": 902140,
+        "facility_id": 104026,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "可供旅客玩轮盘赌。可吸引更多旅客来访。"
+    },
+    {
+        "txt_id": 20000,
+        "tech_id": 902141,
+        "facility_id": 104027,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 20100,
+        "tech_id": 902142,
+        "facility_id": 106008,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 20200,
+        "tech_id": 0,
+        "facility_id": "",
+        "seed_id": 704009,
+        "event_id": ""
+    },
+    {
+        "txt_id": 20300,
+        "tech_id": 0,
+        "facility_id": "",
+        "seed_id": 704012,
+        "event_id": ""
+    },
+    {
+        "txt_id": 20400,
+        "tech_id": 0,
+        "facility_id": "",
+        "seed_id": 704015,
+        "event_id": ""
+    },
+    {
+        "txt_id": 21000,
+        "tech_id": 902143,
+        "facility_id": "102011",
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 21100,
+        "tech_id": 902143,
+        "facility_id": 102012,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 21200,
+        "tech_id": 902145,
+        "facility_id": "",
+        "seed_id": 705006,
+        "event_id": ""
+    },
+    {
+        "txt_id": 21300,
+        "tech_id": 902146,
+        "facility_id": 902146,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 21400,
+        "tech_id": 902147,
+        "facility_id": "",
+        "seed_id": 429001,
+        "event_id": ""
+    },
+    {
+        "txt_id": 21500,
+        "tech_id": 902147,
+        "facility_id": "",
+        "seed_id": 429002,
+        "event_id": ""
+    },
+    {
+        "txt_id": 21600,
+        "tech_id": 902147,
+        "facility_id": "",
+        "seed_id": 429003,
+        "event_id": ""
+    },
+    {
+        "txt_id": 21700,
+        "tech_id": 902148,
+        "facility_id": 111005,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 21800,
+        "tech_id": 902149,
+        "facility_id": "",
+        "seed_id": 424004,
+        "event_id": ""
+    },
+    {
+        "txt_id": 21900,
+        "tech_id": 902150,
+        "facility_id": "",
+        "seed_id": 424005,
+        "event_id": ""
+    },
+    {
+        "txt_id": 22000,
+        "tech_id": 902151,
+        "facility_id": "",
+        "seed_id": 424006,
+        "event_id": ""
+    },
+    {
+        "txt_id": 22100,
+        "tech_id": 902152,
+        "facility_id": 902152,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 22200,
+        "tech_id": 902153,
+        "facility_id": "",
+        "seed_id": 304009,
+        "event_id": ""
+    },
+    {
+        "txt_id": 22300,
+        "tech_id": 902153,
+        "facility_id": "",
+        "seed_id": 304010,
+        "event_id": ""
+    },
+    {
+        "txt_id": 22400,
+        "tech_id": 902154,
+        "facility_id": "",
+        "seed_id": 305005,
+        "event_id": ""
+    },
+    {
+        "txt_id": 22500,
+        "tech_id": 902154,
+        "facility_id": "",
+        "seed_id": 305006,
+        "event_id": ""
+    },
+    {
+        "txt_id": 22600,
+        "tech_id": 902155,
+        "facility_id": "",
+        "seed_id": 412001,
+        "event_id": ""
+    },
+    {
+        "txt_id": 22700,
+        "tech_id": 902155,
+        "facility_id": "",
+        "seed_id": 412002,
+        "event_id": ""
+    },
+    {
+        "txt_id": 22800,
+        "tech_id": 902156,
+        "facility_id": "",
+        "seed_id": 421001,
+        "event_id": ""
+    },
+    {
+        "txt_id": 22900,
+        "tech_id": 902157,
+        "facility_id": "",
+        "seed_id": 412003,
+        "event_id": ""
+    },
+    {
+        "txt_id": 23000,
+        "tech_id": 902158,
+        "facility_id": "",
+        "seed_id": 418001,
+        "event_id": ""
+    },
+    {
+        "txt_id": 23100,
+        "tech_id": 902159,
+        "facility_id": "",
+        "seed_id": 418002,
+        "event_id": ""
+    },
+    {
+        "txt_id": 23200,
+        "tech_id": 902160,
+        "facility_id": 105002,
+        "seed_id": "",
+        "event_id": "",
+        "tech_desc_zh-CN": "种植果树"
+    },
+    {
+        "txt_id": 23300,
+        "tech_id": 902161,
+        "facility_id": 902161,
+        "seed_id": "",
+        "event_id": ""
+    },
+    {
+        "txt_id": 23400,
+        "tech_id": 902162,
+        "facility_id": "",
+        "seed_id": 705007,
+        "event_id": ""
+    },
+    {
+        "txt_id": 23500,
+        "tech_id": 902163,
+        "facility_id": 902163,
+        "seed_id": 901004,
+        "event_id": ""
+    }
+]

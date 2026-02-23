@@ -1,0 +1,134 @@
+[
+    {
+        "language_id": 0,
+        "language_name_cn": "英语",
+        "enable": 1,
+        "language_name": "English",
+        "language_name_en": "english",
+        "language_code": "en",
+        "unity_language_code": "English",
+        "steam_language_code": "english",
+        "is_surname_come_first": false
+    },
+    {
+        "language_id": 1,
+        "language_name_cn": "简体中文",
+        "enable": 1,
+        "language_name": "简体中文",
+        "language_name_en": "schinese",
+        "language_code": "zh-CN",
+        "unity_language_code": "ChineseSimplified",
+        "steam_language_code": "schinese",
+        "is_surname_come_first": true
+    },
+    {
+        "language_id": 2,
+        "language_name_cn": "繁体中文",
+        "enable": 1,
+        "language_name": "繁體中文",
+        "language_name_en": "tchinese",
+        "language_code": "zh-TW",
+        "unity_language_code": "ChineseTraditional",
+        "steam_language_code": "tchinese",
+        "is_surname_come_first": true
+    },
+    {
+        "language_id": 3,
+        "language_name_cn": "俄语",
+        "enable": 1,
+        "language_name": "Русский",
+        "language_name_en": "russian",
+        "language_code": "ru",
+        "unity_language_code": "Russian",
+        "steam_language_code": "russian",
+        "is_surname_come_first": false
+    },
+    {
+        "language_id": 4,
+        "language_name_cn": "西班牙语",
+        "enable": 1,
+        "language_name": "Español",
+        "language_name_en": "spanish",
+        "language_code": "es",
+        "unity_language_code": "Spanish",
+        "steam_language_code": "spanish",
+        "is_surname_come_first": false
+    },
+    {
+        "language_id": 5,
+        "language_name_cn": "德语",
+        "enable": 1,
+        "language_name": "Deutsch",
+        "language_name_en": "german",
+        "language_code": "de",
+        "unity_language_code": "German",
+        "steam_language_code": "german",
+        "is_surname_come_first": false
+    },
+    {
+        "language_id": 6,
+        "language_name_cn": "葡萄牙语",
+        "enable": 1,
+        "language_name": "Português",
+        "language_name_en": "portuguese",
+        "language_code": "pt",
+        "unity_language_code": "Portuguese",
+        "steam_language_code": "portuguese",
+        "is_surname_come_first": false
+    },
+    {
+        "language_id": 7,
+        "language_name_cn": "法语",
+        "enable": 1,
+        "language_name": "Français",
+        "language_name_en": "french",
+        "language_code": "fr",
+        "unity_language_code": "French",
+        "steam_language_code": "french",
+        "is_surname_come_first": false
+    },
+    {
+        "language_id": 8,
+        "language_name_cn": "波兰语",
+        "enable": 1,
+        "language_name": "Polski",
+        "language_name_en": "polish",
+        "language_code": "pl",
+        "unity_language_code": "Polish",
+        "steam_language_code": "polish",
+        "is_surname_come_first": false
+    },
+    {
+        "language_id": 9,
+        "language_name_cn": "意大利语",
+        "enable": 1,
+        "language_name": "Italiano",
+        "language_name_en": "italian",
+        "language_code": "it",
+        "unity_language_code": "Italian",
+        "steam_language_code": "italian",
+        "is_surname_come_first": false
+    },
+    {
+        "language_id": 10,
+        "language_name_cn": "日语",
+        "enable": 0,
+        "language_name": "日本語",
+        "language_name_en": "japanese",
+        "language_code": "ja",
+        "unity_language_code": "Japanese",
+        "steam_language_code": "japanese",
+        "is_surname_come_first": true
+    },
+    {
+        "language_id": 11,
+        "language_name_cn": "韩语",
+        "enable": 0,
+        "language_name": "한국어",
+        "language_name_en": "korean",
+        "language_code": "ko",
+        "unity_language_code": "Korean",
+        "steam_language_code": "koreana",
+        "is_surname_come_first": true
+    }
+]

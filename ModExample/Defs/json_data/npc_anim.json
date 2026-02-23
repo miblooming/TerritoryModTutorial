@@ -1,0 +1,50 @@
+[
+    {
+        "action_type": "npc",
+        "action_id": "idle",
+        "part": "body",
+        "_frames": "0,1,2,3"
+    },
+    {
+        "action_type": "npc",
+        "action_id": "walk",
+        "part": "body",
+        "_frames": "4,5,6,7,8,9,10,11"
+    },
+    {
+        "action_type": "npc",
+        "action_id": "run",
+        "part": "body",
+        "_frames": "12,13,14,15,16,17,18,19"
+    },
+    {
+        "action_type": "npc",
+        "action_id": "jump",
+        "part": "body",
+        "_frames": "20,21,22"
+    },
+    {
+        "action_type": "animal",
+        "action_id": "idle",
+        "part": "body",
+        "_frames": "0"
+    },
+    {
+        "action_type": "animal",
+        "action_id": "walk",
+        "part": "body",
+        "_frames": "1,2,3,4,5,6,7,8"
+    },
+    {
+        "action_type": "animal",
+        "action_id": "run",
+        "part": "body",
+        "_frames": "9,10,11,12,13,14,15,16"
+    },
+    {
+        "action_type": "chariot",
+        "action_id": "walk",
+        "part": "body",
+        "_frames": "0,1,2,3"
+    }
+]

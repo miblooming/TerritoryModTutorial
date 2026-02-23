@@ -1,0 +1,1241 @@
+[
+    {
+        "tech_id": 902022,
+        "depend_tech_id": 0,
+        "tech_points": 0,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902035,
+        "depend_tech_id": 902022,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902024,
+        "depend_tech_id": 902035,
+        "tech_points": 200,
+        "silver": 30,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902034,
+        "depend_tech_id": 902022,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902023,
+        "depend_tech_id": 902034,
+        "tech_points": 200,
+        "silver": 30,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902037,
+        "depend_tech_id": 902034,
+        "tech_points": 60,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902038,
+        "depend_tech_id": 902037,
+        "tech_points": 200,
+        "silver": 30,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902084,
+        "depend_tech_id": 902038,
+        "tech_points": 200,
+        "silver": 50,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902036,
+        "depend_tech_id": 902022,
+        "tech_points": 40,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902160,
+        "depend_tech_id": 902036,
+        "tech_points": 200,
+        "silver": 50,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902017,
+        "depend_tech_id": 902036,
+        "tech_points": 200,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902020,
+        "depend_tech_id": 902017,
+        "tech_points": 200,
+        "silver": 50,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902018,
+        "depend_tech_id": 902036,
+        "tech_points": 200,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902109,
+        "depend_tech_id": 902018,
+        "tech_points": 200,
+        "silver": 50,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902019,
+        "depend_tech_id": 902036,
+        "tech_points": 200,
+        "silver": 50,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902021,
+        "depend_tech_id": 902019,
+        "tech_points": 200,
+        "silver": 50,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902012,
+        "depend_tech_id": 902036,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902039,
+        "depend_tech_id": 902012,
+        "tech_points": 200,
+        "silver": 30,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902116,
+        "depend_tech_id": 902039,
+        "tech_points": 200,
+        "silver": 50,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902013,
+        "depend_tech_id": 0,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902005,
+        "depend_tech_id": 0,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "完成主线剧情过程中解锁"
+    },
+    {
+        "tech_id": 902004,
+        "depend_tech_id": 902013,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902007,
+        "depend_tech_id": 902013,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902156,
+        "depend_tech_id": 902007,
+        "tech_points": 200,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902113,
+        "depend_tech_id": 902013,
+        "tech_points": 100,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902154,
+        "depend_tech_id": 902113,
+        "tech_points": 100,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902155,
+        "depend_tech_id": 902154,
+        "tech_points": 100,
+        "silver": 300,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902153,
+        "depend_tech_id": 902155,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902130,
+        "depend_tech_id": 902013,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902131,
+        "depend_tech_id": 902130,
+        "tech_points": 200,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902010,
+        "depend_tech_id": 902013,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902011,
+        "depend_tech_id": 902010,
+        "tech_points": 200,
+        "silver": 50,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902157,
+        "depend_tech_id": 902011,
+        "tech_points": 200,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902158,
+        "depend_tech_id": 902157,
+        "tech_points": 200,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902159,
+        "depend_tech_id": 902158,
+        "tech_points": 200,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902147,
+        "depend_tech_id": 902011,
+        "tech_points": 1000,
+        "silver": 2000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902003,
+        "depend_tech_id": 902013,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902099,
+        "depend_tech_id": 902005,
+        "tech_points": 500,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902140,
+        "depend_tech_id": 902099,
+        "tech_points": 500,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902065,
+        "depend_tech_id": 902005,
+        "tech_points": 300,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902066,
+        "depend_tech_id": 902065,
+        "tech_points": 300,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902144,
+        "depend_tech_id": 902005,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902061,
+        "depend_tech_id": 902004,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902152,
+        "depend_tech_id": 902061,
+        "tech_points": 1000,
+        "silver": 2000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902075,
+        "depend_tech_id": 902003,
+        "tech_points": 50,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902104,
+        "depend_tech_id": 902003,
+        "tech_points": 500,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902122,
+        "depend_tech_id": 902104,
+        "tech_points": 500,
+        "silver": 2000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902135,
+        "depend_tech_id": 902003,
+        "tech_points": 500,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902136,
+        "depend_tech_id": 902135,
+        "tech_points": 500,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902137,
+        "depend_tech_id": 902136,
+        "tech_points": 500,
+        "silver": 300,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902138,
+        "depend_tech_id": 902137,
+        "tech_points": 500,
+        "silver": 400,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902139,
+        "depend_tech_id": 902138,
+        "tech_points": 500,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902002,
+        "depend_tech_id": 902003,
+        "tech_points": 300,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902091,
+        "depend_tech_id": 902002,
+        "tech_points": 300,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902014,
+        "depend_tech_id": 902003,
+        "tech_points": 300,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902015,
+        "depend_tech_id": 902003,
+        "tech_points": 100,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902102,
+        "depend_tech_id": 902014,
+        "tech_points": 500,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902063,
+        "depend_tech_id": 902003,
+        "tech_points": 200,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902064,
+        "depend_tech_id": 902063,
+        "tech_points": 300,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902009,
+        "depend_tech_id": 0,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "完成主线剧情过程中解锁"
+    },
+    {
+        "tech_id": 902161,
+        "depend_tech_id": 902009,
+        "tech_points": 100,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902008,
+        "depend_tech_id": 902009,
+        "tech_points": 400,
+        "silver": 50,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902112,
+        "depend_tech_id": 902008,
+        "tech_points": 500,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902114,
+        "depend_tech_id": 902112,
+        "tech_points": 500,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902016,
+        "depend_tech_id": 902009,
+        "tech_points": 400,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902106,
+        "depend_tech_id": 902016,
+        "tech_points": 500,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902134,
+        "depend_tech_id": 902016,
+        "tech_points": 500,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902141,
+        "depend_tech_id": 902106,
+        "tech_points": 500,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902032,
+        "depend_tech_id": 902009,
+        "tech_points": 400,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902033,
+        "depend_tech_id": 902009,
+        "tech_points": 400,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902060,
+        "depend_tech_id": 902114,
+        "tech_points": 500,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902120,
+        "depend_tech_id": 902032,
+        "tech_points": 500,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902150,
+        "depend_tech_id": 902120,
+        "tech_points": 500,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902059,
+        "depend_tech_id": 902033,
+        "tech_points": 500,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902151,
+        "depend_tech_id": 902059,
+        "tech_points": 500,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902111,
+        "depend_tech_id": 902009,
+        "tech_points": 800,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902082,
+        "depend_tech_id": 902111,
+        "tech_points": 500,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902083,
+        "depend_tech_id": 902082,
+        "tech_points": 1000,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902125,
+        "depend_tech_id": 902083,
+        "tech_points": 2000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902146,
+        "depend_tech_id": 902125,
+        "tech_points": 2000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902126,
+        "depend_tech_id": 902083,
+        "tech_points": 2000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902124,
+        "depend_tech_id": 902082,
+        "tech_points": 1000,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902077,
+        "depend_tech_id": 902009,
+        "tech_points": 500,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902117,
+        "depend_tech_id": 902077,
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902078,
+        "depend_tech_id": 902077,
+        "tech_points": 1000,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902080,
+        "depend_tech_id": 902077,
+        "tech_points": 500,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902110,
+        "depend_tech_id": 902080,
+        "tech_points": 800,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902149,
+        "depend_tech_id": 902110,
+        "tech_points": 500,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902081,
+        "depend_tech_id": 902078,
+        "tech_points": 1000,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902025,
+        "depend_tech_id": "",
+        "tech_points": 100,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902090,
+        "depend_tech_id": 902025,
+        "tech_points": 500,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902143,
+        "depend_tech_id": 902090,
+        "tech_points": 200,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902074,
+        "depend_tech_id": 902025,
+        "tech_points": 200,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902115,
+        "depend_tech_id": 902074,
+        "tech_points": 100,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902142,
+        "depend_tech_id": 902115,
+        "tech_points": 500,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902133,
+        "depend_tech_id": 902142,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "完成主线剧情过程中解锁"
+    },
+    {
+        "tech_id": 902068,
+        "depend_tech_id": 902046,
+        "tech_points": 5000,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "据说藏在某个神秘的地方"
+    },
+    {
+        "tech_id": 902069,
+        "depend_tech_id": 902047,
+        "tech_points": 5000,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "据说藏在某个神秘的地方"
+    },
+    {
+        "tech_id": 902070,
+        "depend_tech_id": 902048,
+        "tech_points": 5000,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "据说藏在某个神秘的地方"
+    },
+    {
+        "tech_id": 902071,
+        "depend_tech_id": 902068,
+        "tech_points": 8000,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "据说藏在某个神秘的地方"
+    },
+    {
+        "tech_id": 902072,
+        "depend_tech_id": 902069,
+        "tech_points": 8000,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "据说藏在某个神秘的地方"
+    },
+    {
+        "tech_id": 902073,
+        "depend_tech_id": 902070,
+        "tech_points": 8000,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "据说藏在某个神秘的地方"
+    },
+    {
+        "tech_id": 902052,
+        "depend_tech_id": 902025,
+        "tech_points": 100,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902053,
+        "depend_tech_id": 902052,
+        "tech_points": 200,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902057,
+        "depend_tech_id": 902053,
+        "tech_points": 200,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902127,
+        "depend_tech_id": 902053,
+        "tech_points": 8000,
+        "silver": 5000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902055,
+        "depend_tech_id": 902052,
+        "tech_points": 200,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902056,
+        "depend_tech_id": 902055,
+        "tech_points": 200,
+        "silver": 300,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902128,
+        "depend_tech_id": 902055,
+        "tech_points": 200,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902108,
+        "depend_tech_id": 902052,
+        "tech_points": 200,
+        "silver": 200,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902103,
+        "depend_tech_id": 902052,
+        "tech_points": 1000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902129,
+        "depend_tech_id": 902103,
+        "tech_points": 1000,
+        "silver": 2000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902092,
+        "depend_tech_id": 902025,
+        "tech_points": 1000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902097,
+        "depend_tech_id": 902092,
+        "tech_points": 500,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902123,
+        "depend_tech_id": 902092,
+        "tech_points": 1000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902098,
+        "depend_tech_id": 902097,
+        "tech_points": 1000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902100,
+        "depend_tech_id": 902098,
+        "tech_points": 2000,
+        "silver": 3000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902094,
+        "depend_tech_id": 902025,
+        "tech_points": 500,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1,
+        "can_not_research_tips": "陆地上还有广袤的未知土地，人们没有意愿到海上冒险"
+    },
+    {
+        "tech_id": 902093,
+        "depend_tech_id": 902094,
+        "tech_points": 1000,
+        "silver": 2000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902095,
+        "depend_tech_id": 902093,
+        "tech_points": 1000,
+        "silver": 3000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902049,
+        "depend_tech_id": 902025,
+        "tech_points": 200,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902050,
+        "depend_tech_id": 902025,
+        "tech_points": 200,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902051,
+        "depend_tech_id": 902025,
+        "tech_points": 200,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902026,
+        "depend_tech_id": 902049,
+        "tech_points": 200,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902027,
+        "depend_tech_id": 902050,
+        "tech_points": 200,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902028,
+        "depend_tech_id": 902051,
+        "tech_points": 200,
+        "silver": 100,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902029,
+        "depend_tech_id": 902026,
+        "tech_points": 300,
+        "silver": 300,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902030,
+        "depend_tech_id": 902027,
+        "tech_points": 300,
+        "silver": 300,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902031,
+        "depend_tech_id": 902028,
+        "tech_points": 300,
+        "silver": 300,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902040,
+        "depend_tech_id": 902029,
+        "tech_points": 400,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902041,
+        "depend_tech_id": 902030,
+        "tech_points": 400,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902042,
+        "depend_tech_id": 902031,
+        "tech_points": 400,
+        "silver": 500,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902043,
+        "depend_tech_id": 902040,
+        "tech_points": 1000,
+        "silver": 800,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902044,
+        "depend_tech_id": 902041,
+        "tech_points": 1000,
+        "silver": 800,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902045,
+        "depend_tech_id": 902042,
+        "tech_points": 1000,
+        "silver": 800,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902046,
+        "depend_tech_id": 902043,
+        "tech_points": 1000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902047,
+        "depend_tech_id": 902044,
+        "tech_points": 1000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902048,
+        "depend_tech_id": 902045,
+        "tech_points": 1000,
+        "silver": 1000,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902132,
+        "depend_tech_id": "",
+        "tech_points": 0,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 1
+    },
+    {
+        "tech_id": 902096,
+        "depend_tech_id": 902132,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "在世界某个地方"
+    },
+    {
+        "tech_id": 902101,
+        "depend_tech_id": 902096,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "在世界某个地方"
+    },
+    {
+        "tech_id": 902105,
+        "depend_tech_id": 902101,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "在世界某个地方"
+    },
+    {
+        "tech_id": 902118,
+        "depend_tech_id": 902105,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "在世界某个地方"
+    },
+    {
+        "tech_id": 902119,
+        "depend_tech_id": 902118,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "在世界某个地方"
+    },
+    {
+        "tech_id": 902148,
+        "depend_tech_id": 902119,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "在世界某个地方"
+    },
+    {
+        "tech_id": 902085,
+        "depend_tech_id": 902132,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "无法研究解锁，需完成主线任务“宝石的秘密”后，由王国工匠传授"
+    },
+    {
+        "tech_id": 902086,
+        "depend_tech_id": 902085,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "无法研究解锁，需完成主线任务“宝石的秘密”后，由王国工匠传授"
+    },
+    {
+        "tech_id": 902087,
+        "depend_tech_id": 902086,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "无法研究解锁，需完成主线任务“宝石的秘密”后，由王国工匠传授"
+    },
+    {
+        "tech_id": 902088,
+        "depend_tech_id": 902087,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "无法研究解锁，需完成主线任务“宝石的秘密”后，由王国工匠传授"
+    },
+    {
+        "tech_id": 902089,
+        "depend_tech_id": 902088,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "无法研究解锁，需完成主线任务“宝石的秘密”后，由王国工匠传授"
+    },
+    {
+        "tech_id": 902162,
+        "depend_tech_id": 902089,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "在世界某个地方"
+    },
+    {
+        "tech_id": 902145,
+        "depend_tech_id": 902162,
+        "tech_points": 9999,
+        "silver": 0,
+        "disable": 0,
+        "can_research": 0,
+        "can_not_research_tips": "在世界某个地方"
+    }
+]

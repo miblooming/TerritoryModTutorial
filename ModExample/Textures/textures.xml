@@ -1,0 +1,33 @@
+<ModImages version="1">
+
+  <Image 
+      file="kingdom_treasure_box_0.png"
+      action="replace"
+      anchor="0,0"
+	  />
+
+  <Image 
+      file="kingdom_treasure_box_0_new.png"
+      action="add"
+	  anchor="0,0"
+      />
+	  
+  <Image 
+      file="ui_306001.png"
+      action="replace"
+	  anchor="0.5,0.5"
+      />
+	  
+  <Image 
+      file="306001.png"
+      action="replace"
+	  anchor="0.5,0.5"
+      />
+	  
+  <Image 
+      file="hat_career_170.png"
+      action="replace"
+	  anchor="0.5,0.5"
+      />
+
+</ModImages>

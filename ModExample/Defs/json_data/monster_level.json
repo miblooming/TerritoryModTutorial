@@ -1,0 +1,562 @@
+[
+    {
+        "level_id": 1,
+        "monster_count": 10,
+        "monster_level": 1,
+        "monster_type1": 203001,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 2,
+        "monster_count": 15,
+        "monster_level": 1,
+        "monster_type1": 203001,
+        "monster_type2": 203011,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 3,
+        "monster_count": 20,
+        "monster_level": 1,
+        "monster_type1": 203011,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 4,
+        "monster_count": 25,
+        "monster_level": 1,
+        "monster_type1": 203011,
+        "monster_type2": 203001,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 5,
+        "monster_count": 30,
+        "monster_level": 1,
+        "monster_type1": 203011,
+        "monster_type2": 203001,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 6,
+        "monster_count": 35,
+        "monster_level": 1,
+        "monster_type1": 203013,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 7,
+        "monster_count": 20,
+        "monster_level": 1,
+        "monster_type1": 203013,
+        "monster_type2": 203016,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 8,
+        "monster_count": 25,
+        "monster_level": 2,
+        "monster_type1": 203016,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 9,
+        "monster_count": 30,
+        "monster_level": 2,
+        "monster_type1": 203016,
+        "monster_type2": 203001,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 10,
+        "monster_count": 35,
+        "monster_level": 2,
+        "monster_type1": 203016,
+        "monster_type2": 203011,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 11,
+        "monster_count": 40,
+        "monster_level": 2,
+        "monster_type1": 203016,
+        "monster_type2": 203001,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 12,
+        "monster_count": 45,
+        "monster_level": 2,
+        "monster_type1": 203005,
+        "monster_type2": 203021,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 13,
+        "monster_count": 30,
+        "monster_level": 2,
+        "monster_type1": 203005,
+        "monster_type2": 203021,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 14,
+        "monster_count": 35,
+        "monster_level": 2,
+        "monster_type1": 203005,
+        "monster_type2": 203021,
+        "monster_type3": 203001
+    },
+    {
+        "level_id": 15,
+        "monster_count": 40,
+        "monster_level": 3,
+        "monster_type1": 203005,
+        "monster_type2": 203001,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 16,
+        "monster_count": 45,
+        "monster_level": 3,
+        "monster_type1": 203006,
+        "monster_type2": 203001,
+        "monster_type3": 203015
+    },
+    {
+        "level_id": 17,
+        "monster_count": 10,
+        "monster_level": 3,
+        "monster_type1": 203032,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 18,
+        "monster_count": 40,
+        "monster_level": 3,
+        "monster_type1": 203034,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 19,
+        "monster_count": 45,
+        "monster_level": 3,
+        "monster_type1": 203032,
+        "monster_type2": 203034,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 20,
+        "monster_count": 45,
+        "monster_level": 3,
+        "monster_type1": 203035,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 21,
+        "monster_count": 50,
+        "monster_level": 3,
+        "monster_type1": 203035,
+        "monster_type2": 203016,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 22,
+        "monster_count": 50,
+        "monster_level": 4,
+        "monster_type1": 203004,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 23,
+        "monster_count": 55,
+        "monster_level": 4,
+        "monster_type1": 203004,
+        "monster_type2": 203001,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 24,
+        "monster_count": 40,
+        "monster_level": 4,
+        "monster_type1": 203004,
+        "monster_type2": 203016,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 25,
+        "monster_count": 45,
+        "monster_level": 4,
+        "monster_type1": 203004,
+        "monster_type2": 203005,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 26,
+        "monster_count": 50,
+        "monster_level": 4,
+        "monster_type1": 203004,
+        "monster_type2": 203006,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 27,
+        "monster_count": 55,
+        "monster_level": 4,
+        "monster_type1": 203004,
+        "monster_type2": 203006,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 28,
+        "monster_count": 60,
+        "monster_level": 4,
+        "monster_type1": 203003,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 29,
+        "monster_count": 65,
+        "monster_level": 5,
+        "monster_type1": 203003,
+        "monster_type2": 203016,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 30,
+        "monster_count": 50,
+        "monster_level": 5,
+        "monster_type1": 203003,
+        "monster_type2": 203006,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 31,
+        "monster_count": 55,
+        "monster_level": 5,
+        "monster_type1": 203003,
+        "monster_type2": 203005,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 32,
+        "monster_count": 60,
+        "monster_level": 5,
+        "monster_type1": 203003,
+        "monster_type2": 203020,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 33,
+        "monster_count": 65,
+        "monster_level": 5,
+        "monster_type1": 203003,
+        "monster_type2": 203035,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 34,
+        "monster_count": 65,
+        "monster_level": 5,
+        "monster_type1": 203015,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 35,
+        "monster_count": 70,
+        "monster_level": 5,
+        "monster_type1": 203015,
+        "monster_type2": 203007,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 36,
+        "monster_count": 75,
+        "monster_level": 6,
+        "monster_type1": 203015,
+        "monster_type2": 203001,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 37,
+        "monster_count": 60,
+        "monster_level": 6,
+        "monster_type1": 203015,
+        "monster_type2": 203005,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 38,
+        "monster_count": 65,
+        "monster_level": 6,
+        "monster_type1": 203015,
+        "monster_type2": 203016,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 39,
+        "monster_count": 70,
+        "monster_level": 6,
+        "monster_type1": 203015,
+        "monster_type2": 203018,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 40,
+        "monster_count": 75,
+        "monster_level": 6,
+        "monster_type1": 203018,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 41,
+        "monster_count": 80,
+        "monster_level": 6,
+        "monster_type1": 203018,
+        "monster_type2": 203012,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 42,
+        "monster_count": 85,
+        "monster_level": 6,
+        "monster_type1": 203018,
+        "monster_type2": 203006,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 43,
+        "monster_count": 30,
+        "monster_level": 7,
+        "monster_type1": 203032,
+        "monster_type2": 203034,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 44,
+        "monster_count": 70,
+        "monster_level": 7,
+        "monster_type1": 203018,
+        "monster_type2": 203019,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 45,
+        "monster_count": 75,
+        "monster_level": 7,
+        "monster_type1": 203018,
+        "monster_type2": 203019,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 46,
+        "monster_count": 80,
+        "monster_level": 7,
+        "monster_type1": 203018,
+        "monster_type2": 203005,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 47,
+        "monster_count": 85,
+        "monster_level": 7,
+        "monster_type1": 203012,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 48,
+        "monster_count": 90,
+        "monster_level": 7,
+        "monster_type1": 203012,
+        "monster_type2": 203001,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 49,
+        "monster_count": 95,
+        "monster_level": 7,
+        "monster_type1": 203012,
+        "monster_type2": 203006,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 50,
+        "monster_count": 80,
+        "monster_level": 8,
+        "monster_type1": 203012,
+        "monster_type2": 203005,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 51,
+        "monster_count": 85,
+        "monster_level": 8,
+        "monster_type1": 203012,
+        "monster_type2": 203018,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 52,
+        "monster_count": 90,
+        "monster_level": 8,
+        "monster_type1": 203012,
+        "monster_type2": 203011,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 53,
+        "monster_count": 95,
+        "monster_level": 8,
+        "monster_type1": 203012,
+        "monster_type2": 203008,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 54,
+        "monster_count": 30,
+        "monster_level": 8,
+        "monster_type1": 203032,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 55,
+        "monster_count": 100,
+        "monster_level": 8,
+        "monster_type1": 203020,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 56,
+        "monster_count": 105,
+        "monster_level": 8,
+        "monster_type1": 203020,
+        "monster_type2": 203003,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 57,
+        "monster_count": 90,
+        "monster_level": 9,
+        "monster_type1": 203020,
+        "monster_type2": 203006,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 58,
+        "monster_count": 95,
+        "monster_level": 9,
+        "monster_type1": 203020,
+        "monster_type2": 203005,
+        "monster_type3": ""
+    },
+    {
+        "level_id": 59,
+        "monster_count": 100,
+        "monster_level": 9,
+        "monster_type1": 203001,
+        "monster_type2": 203006,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 60,
+        "monster_count": 105,
+        "monster_level": 9,
+        "monster_type1": 203011,
+        "monster_type2": 203012,
+        "monster_type3": 203003
+    },
+    {
+        "level_id": 61,
+        "monster_count": 110,
+        "monster_level": 9,
+        "monster_type1": 203020,
+        "monster_type2": 203018,
+        "monster_type3": 203015
+    },
+    {
+        "level_id": 62,
+        "monster_count": 115,
+        "monster_level": 9,
+        "monster_type1": 203004,
+        "monster_type2": 203021,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 63,
+        "monster_count": 100,
+        "monster_level": 9,
+        "monster_type1": 203008,
+        "monster_type2": 203016,
+        "monster_type3": 203020
+    },
+    {
+        "level_id": 64,
+        "monster_count": 105,
+        "monster_level": 10,
+        "monster_type1": 203035,
+        "monster_type2": 203016,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 65,
+        "monster_count": 30,
+        "monster_level": 10,
+        "monster_type1": 203032,
+        "monster_type2": "",
+        "monster_type3": ""
+    },
+    {
+        "level_id": 66,
+        "monster_count": 105,
+        "monster_level": 10,
+        "monster_type1": 203035,
+        "monster_type2": 203016,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 67,
+        "monster_count": 110,
+        "monster_level": 10,
+        "monster_type1": 203012,
+        "monster_type2": 203016,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 68,
+        "monster_count": 115,
+        "monster_level": 10,
+        "monster_type1": 203018,
+        "monster_type2": 203016,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 69,
+        "monster_count": 120,
+        "monster_level": 10,
+        "monster_type1": 203015,
+        "monster_type2": 203016,
+        "monster_type3": 203005
+    },
+    {
+        "level_id": 70,
+        "monster_count": 125,
+        "monster_level": 10,
+        "monster_type1": 203001,
+        "monster_type2": 203016,
+        "monster_type3": 203005
+    }
+]

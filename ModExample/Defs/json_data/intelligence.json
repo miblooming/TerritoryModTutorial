@@ -1,0 +1,98 @@
+[
+    {
+        "intelligence_id": 1,
+        "npc_type": -14,
+        "price": 1,
+        "content_zh-CN": "士兵雕像对敌人的伤害是按百分比计算的，遇强则强，遇弱遇弱。"
+    },
+    {
+        "intelligence_id": 2,
+        "npc_type": -14,
+        "price": 1,
+        "content_zh-CN": "不同的领主，掌握着不同的物资的定价权，与他们建立友好的关系，可获得贸易上的优惠。"
+    },
+    {
+        "intelligence_id": 3,
+        "npc_type": -14,
+        "price": 1,
+        "content_zh-CN": "打败其它领主，让其成为附庸，可以掌握相应物资的定价权。"
+    },
+    {
+        "intelligence_id": 4,
+        "npc_type": -14,
+        "price": 1,
+        "content_zh-CN": "世界其它地方有一些特别的种族，不同种族有不同的特长和劣势。"
+    },
+    {
+        "intelligence_id": 5,
+        "npc_type": -14,
+        "price": 1,
+        "content_zh-CN": "雕像填充宝石后，可施展魔法，可从国王的工匠处获得，也可以在世界其它地方探索搜集到。"
+    },
+    {
+        "intelligence_id": 6,
+        "npc_type": -11,
+        "price": 5,
+        "content_zh-CN": "召唤泰坦所需要“泰坦祭坛”在东王的某个村庄，占领这个村庄或外交送礼可获得建筑图纸。\n建造后，装入“泰坦之心”即可召唤泰坦。"
+    },
+    {
+        "intelligence_id": 7,
+        "npc_type": -11,
+        "price": 5,
+        "content_zh-CN": "据说古墓中，藏着泰坦之心，可以召唤泰坦巨人，战斗力惊人。"
+    },
+    {
+        "intelligence_id": 8,
+        "npc_type": -11,
+        "price": 5,
+        "content_zh-CN": "据说在世界其它地方，还有4颗泰坦之心，被埋藏在古墓之中。"
+    },
+    {
+        "intelligence_id": 9,
+        "npc_type": -11,
+        "price": 5,
+        "content_zh-CN": "在大王子的某个村庄，有一个叫作“方尖碑”的魔法建筑，可使进入其作用范围的敌人行动缓慢。"
+    },
+    {
+        "intelligence_id": 10,
+        "npc_type": -11,
+        "price": 5,
+        "content_zh-CN": "据说<color=#EE4242>平王</color>掌握着“<color=#EE4242>史诗武器</color>”的制造方法，这是他征战天下的资本。\n与他结盟，可以获得这个技术。"
+    },
+    {
+        "intelligence_id": 11,
+        "npc_type": -11,
+        "price": 5,
+        "content_zh-CN": "据说<color=#EE4242>逍遥王</color>掌握着“<color=#EE4242>史诗盾牌</color>”的制造方法，这是他能够割据一方的底气。\n与他结盟，可以获得这个技术。"
+    },
+    {
+        "intelligence_id": 12,
+        "npc_type": -11,
+        "price": 5,
+        "content_zh-CN": "据说<color=#EE4242>南洋王</color>掌握着“<color=#EE4242>史诗盔甲</color>”的制造方法，他们平王结为攻守同盟，垄断了全世界最顶级的武器装备。\n与他结盟，可以获得这个技术。"
+    },
+    {
+        "intelligence_id": 13,
+        "npc_type": -10,
+        "price": 2,
+        "content_zh-CN": "巨树是由小树变异而来，所以没有小树的地方，就不会有巨树。"
+    },
+    {
+        "intelligence_id": 14,
+        "npc_type": -10,
+        "price": 2,
+        "content_zh-CN": "巨型蘑菇是由小蘑菇变异而来，所以没有小蘑菇的地方，就不会有巨型蘑菇。"
+    },
+    {
+        "intelligence_id": 15,
+        "npc_type": -14,
+        "price": 1,
+        "content_zh-CN": "快捷键F1，可以查看帮助文档，内容丰富。\n快捷键F5，可以居民任务列表。"
+    },
+    {
+        "intelligence_id": 16,
+        "npc_type": -10,
+        "price": 2,
+        "content_zh-CN": "床设置职业限制后，可绑定工作设施，让居民睡觉与工作地点靠近，提高生产效率。"
+    }
+]

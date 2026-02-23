@@ -1,0 +1,46 @@
+[
+    {
+        "demand_id": 1101,
+        "attr_type_id": 0,
+        "attr_type": "健康",
+        "demand_refused_effect_value": -10,
+        "meet_refused_effect_value": 10,
+        "attr_para": 0,
+        "demand_duration_days": "",
+        "demand_stuff_id": "",
+        "demand_stuff_count": ""
+    },
+    {
+        "demand_id": 1102,
+        "attr_type_id": 0,
+        "attr_type": "健康",
+        "demand_refused_effect_value": -10,
+        "meet_refused_effect_value": 10,
+        "attr_para": 0,
+        "demand_duration_days": "",
+        "demand_stuff_id": "",
+        "demand_stuff_count": ""
+    },
+    {
+        "demand_id": 2101,
+        "attr_type_id": 1,
+        "attr_type": "幸福",
+        "demand_refused_effect_value": -10,
+        "meet_refused_effect_value": 10,
+        "attr_para": 0,
+        "demand_duration_days": "",
+        "demand_stuff_id": "",
+        "demand_stuff_count": ""
+    },
+    {
+        "demand_id": 2101,
+        "attr_type_id": 1,
+        "attr_type": "幸福",
+        "demand_refused_effect_value": -10,
+        "meet_refused_effect_value": 10,
+        "attr_para": 0,
+        "demand_duration_days": "",
+        "demand_stuff_id": "",
+        "demand_stuff_count": ""
+    }
+]

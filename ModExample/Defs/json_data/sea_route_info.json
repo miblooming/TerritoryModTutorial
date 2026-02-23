@@ -1,0 +1,22 @@
+[
+    {
+        "sea_route_id": 1,
+        "sea_route_name": "西洋航线",
+        "_port_area_list": "31,63,25"
+    },
+    {
+        "sea_route_id": 2,
+        "sea_route_name": "南洋航线",
+        "_port_area_list": "31,50,59"
+    },
+    {
+        "sea_route_id": 3,
+        "sea_route_name": "东洋航线",
+        "_port_area_list": "31,50,49,57"
+    },
+    {
+        "sea_route_id": 4,
+        "sea_route_name": "北洋航线",
+        "_port_area_list": "31,7,3,4"
+    }
+]

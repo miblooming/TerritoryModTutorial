@@ -1,0 +1,3306 @@
+[
+    {
+        "battle_soldier_config_id": 100001,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 1,
+        "soldier_type_id": 202501
+    },
+    {
+        "battle_soldier_config_id": 100001,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 1,
+        "soldier_type_id": 202303
+    },
+    {
+        "battle_soldier_config_id": 200000,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 1,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200000,
+        "group_id": 1,
+        "soldier_count": 4,
+        "equip_level": 1,
+        "soldier_type_id": 202402
+    },
+    {
+        "battle_soldier_config_id": 200001,
+        "group_id": 1,
+        "soldier_count": 9,
+        "equip_level": 2,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200001,
+        "group_id": 2,
+        "soldier_count": 9,
+        "equip_level": 2,
+        "soldier_type_id": 202402
+    },
+    {
+        "battle_soldier_config_id": 200001,
+        "group_id": 3,
+        "soldier_count": 10,
+        "equip_level": 2,
+        "soldier_type_id": 202301
+    },
+    {
+        "battle_soldier_config_id": 200001,
+        "group_id": 3,
+        "soldier_count": 6,
+        "equip_level": 2,
+        "soldier_type_id": 202501
+    },
+    {
+        "battle_soldier_config_id": 200001,
+        "group_id": 4,
+        "soldier_count": 9,
+        "equip_level": 2,
+        "soldier_type_id": 202403
+    },
+    {
+        "battle_soldier_config_id": 200001,
+        "group_id": 5,
+        "soldier_count": 16,
+        "equip_level": 2,
+        "soldier_type_id": 202405
+    },
+    {
+        "battle_soldier_config_id": 200002,
+        "group_id": 1,
+        "soldier_count": 25,
+        "equip_level": 4,
+        "soldier_type_id": 202101
+    },
+    {
+        "battle_soldier_config_id": 200002,
+        "group_id": 2,
+        "soldier_count": 25,
+        "equip_level": 4,
+        "soldier_type_id": 202405
+    },
+    {
+        "battle_soldier_config_id": 200002,
+        "group_id": 3,
+        "soldier_count": 15,
+        "equip_level": 4,
+        "soldier_type_id": 202301
+    },
+    {
+        "battle_soldier_config_id": 200002,
+        "group_id": 3,
+        "soldier_count": 10,
+        "equip_level": 4,
+        "soldier_type_id": 202501
+    },
+    {
+        "battle_soldier_config_id": 200002,
+        "group_id": 4,
+        "soldier_count": 25,
+        "equip_level": 4,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200003,
+        "group_id": 1,
+        "soldier_count": 25,
+        "equip_level": 6,
+        "soldier_type_id": 202101
+    },
+    {
+        "battle_soldier_config_id": 200003,
+        "group_id": 2,
+        "soldier_count": 25,
+        "equip_level": 6,
+        "soldier_type_id": 202402
+    },
+    {
+        "battle_soldier_config_id": 200003,
+        "group_id": 3,
+        "soldier_count": 25,
+        "equip_level": 6,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200003,
+        "group_id": 4,
+        "soldier_count": 16,
+        "equip_level": 6,
+        "soldier_type_id": 202301
+    },
+    {
+        "battle_soldier_config_id": 200003,
+        "group_id": 4,
+        "soldier_count": 10,
+        "equip_level": 6,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 200003,
+        "group_id": 4,
+        "soldier_count": 10,
+        "equip_level": 6,
+        "soldier_type_id": 202302
+    },
+    {
+        "battle_soldier_config_id": 200004,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 7,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 200004,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 6,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 200004,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 6,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200005,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 7,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 200005,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 6,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 200005,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 6,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200005,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 6,
+        "soldier_type_id": 202501
+    },
+    {
+        "battle_soldier_config_id": 200006,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 8,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 200006,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 7,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 200006,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 7,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200006,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 7,
+        "soldier_type_id": 202405
+    },
+    {
+        "battle_soldier_config_id": 200006,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 6,
+        "soldier_type_id": 202403
+    },
+    {
+        "battle_soldier_config_id": 200007,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 0,
+        "soldier_type_id": 706002
+    },
+    {
+        "battle_soldier_config_id": 200007,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 0,
+        "soldier_type_id": 706003
+    },
+    {
+        "battle_soldier_config_id": 200007,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200007,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203001
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203002
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203003
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203004
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203005
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203016
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203007
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203008
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203012
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203013
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203014
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203027
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 3,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203015
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 3,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203018
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 3,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203020
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 3,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203021
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 3,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203028
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 3,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203032
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 3,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203034
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 3,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203035
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200008,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 2,
+        "soldier_count": 15,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 2,
+        "soldier_count": 15,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 3,
+        "soldier_count": 15,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 3,
+        "soldier_count": 15,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 4,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203029
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 4,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203031
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200009,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 200010,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 200010,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 200010,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 200010,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202405
+    },
+    {
+        "battle_soldier_config_id": 200010,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202704
+    },
+    {
+        "battle_soldier_config_id": 200010,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202703
+    },
+    {
+        "battle_soldier_config_id": 200010,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 200010,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202403
+    },
+    {
+        "battle_soldier_config_id": 200010,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202501
+    },
+    {
+        "battle_soldier_config_id": 200011,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202704
+    },
+    {
+        "battle_soldier_config_id": 200011,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 200011,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202303
+    },
+    {
+        "battle_soldier_config_id": 200011,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 200011,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202704
+    },
+    {
+        "battle_soldier_config_id": 200011,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202101
+    },
+    {
+        "battle_soldier_config_id": 200011,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 200011,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 200012,
+        "group_id": 1,
+        "soldier_count": 3,
+        "equip_level": 0,
+        "soldier_type_id": 706003
+    },
+    {
+        "battle_soldier_config_id": 200013,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 3,
+        "soldier_type_id": 202101
+    },
+    {
+        "battle_soldier_config_id": 200013,
+        "group_id": 3,
+        "soldier_count": 5,
+        "equip_level": 4,
+        "soldier_type_id": 202301
+    },
+    {
+        "battle_soldier_config_id": 200013,
+        "group_id": 3,
+        "soldier_count": 5,
+        "equip_level": 4,
+        "soldier_type_id": 202501
+    },
+    {
+        "battle_soldier_config_id": 100002,
+        "group_id": 1,
+        "soldier_count": 3,
+        "equip_level": 7,
+        "soldier_type_id": 202704
+    },
+    {
+        "battle_soldier_config_id": 100002,
+        "group_id": 1,
+        "soldier_count": 3,
+        "equip_level": 7,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 100002,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 7,
+        "soldier_type_id": 202301
+    },
+    {
+        "battle_soldier_config_id": 290001,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 9,
+        "soldier_type_id": 202301
+    },
+    {
+        "battle_soldier_config_id": 290001,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 9,
+        "soldier_type_id": 202403
+    },
+    {
+        "battle_soldier_config_id": 290001,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 290001,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 290001,
+        "group_id": 2,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 290002,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 290002,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 290002,
+        "group_id": 2,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 290002,
+        "group_id": 2,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 290003,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 290003,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 290003,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 290003,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203050
+    },
+    {
+        "battle_soldier_config_id": 290004,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 290004,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 290004,
+        "group_id": 2,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 290004,
+        "group_id": 2,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 290005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203050
+    },
+    {
+        "battle_soldier_config_id": 290005,
+        "group_id": 2,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 290005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203050
+    },
+    {
+        "battle_soldier_config_id": 290005,
+        "group_id": 3,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 290005,
+        "group_id": 4,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 290005,
+        "group_id": 5,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 290006,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 290006,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 290006,
+        "group_id": 2,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 290006,
+        "group_id": 2,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 290007,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 290007,
+        "group_id": 2,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 290007,
+        "group_id": 3,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 290007,
+        "group_id": 4,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 290008,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203050
+    },
+    {
+        "battle_soldier_config_id": 290008,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203050
+    },
+    {
+        "battle_soldier_config_id": 290008,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203050
+    },
+    {
+        "battle_soldier_config_id": 290009,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203050
+    },
+    {
+        "battle_soldier_config_id": 290009,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203044
+    },
+    {
+        "battle_soldier_config_id": 290009,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 290009,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203055
+    },
+    {
+        "battle_soldier_config_id": 290010,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203050
+    },
+    {
+        "battle_soldier_config_id": 290010,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203045
+    },
+    {
+        "battle_soldier_config_id": 290010,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 290010,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203054
+    },
+    {
+        "battle_soldier_config_id": 290010,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 290010,
+        "group_id": 2,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 290010,
+        "group_id": 2,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 290010,
+        "group_id": 3,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 290010,
+        "group_id": 4,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 291001,
+        "group_id": 1,
+        "soldier_count": 15,
+        "equip_level": 9,
+        "soldier_type_id": 202501
+    },
+    {
+        "battle_soldier_config_id": 291001,
+        "group_id": 1,
+        "soldier_count": 15,
+        "equip_level": 9,
+        "soldier_type_id": 202403
+    },
+    {
+        "battle_soldier_config_id": 291001,
+        "group_id": 1,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 291001,
+        "group_id": 1,
+        "soldier_count": 3,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 291001,
+        "group_id": 2,
+        "soldier_count": 3,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 291002,
+        "group_id": 1,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 291002,
+        "group_id": 1,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 291002,
+        "group_id": 2,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 291002,
+        "group_id": 2,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 291003,
+        "group_id": 1,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 291003,
+        "group_id": 1,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 291003,
+        "group_id": 1,
+        "soldier_count": 3,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 291003,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203051
+    },
+    {
+        "battle_soldier_config_id": 291004,
+        "group_id": 1,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 291004,
+        "group_id": 1,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 291004,
+        "group_id": 2,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 291004,
+        "group_id": 2,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 291005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203051
+    },
+    {
+        "battle_soldier_config_id": 291005,
+        "group_id": 2,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 291005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203051
+    },
+    {
+        "battle_soldier_config_id": 291005,
+        "group_id": 3,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 291005,
+        "group_id": 4,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 291005,
+        "group_id": 5,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 291006,
+        "group_id": 1,
+        "soldier_count": 6,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 291006,
+        "group_id": 1,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 291006,
+        "group_id": 2,
+        "soldier_count": 6,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 291006,
+        "group_id": 2,
+        "soldier_count": 25,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 291007,
+        "group_id": 1,
+        "soldier_count": 11,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 291007,
+        "group_id": 2,
+        "soldier_count": 11,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 291007,
+        "group_id": 3,
+        "soldier_count": 11,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 291007,
+        "group_id": 4,
+        "soldier_count": 11,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 291008,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203051
+    },
+    {
+        "battle_soldier_config_id": 291008,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203051
+    },
+    {
+        "battle_soldier_config_id": 291008,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203051
+    },
+    {
+        "battle_soldier_config_id": 291009,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203051
+    },
+    {
+        "battle_soldier_config_id": 291009,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203043
+    },
+    {
+        "battle_soldier_config_id": 291009,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203047
+    },
+    {
+        "battle_soldier_config_id": 291009,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203056
+    },
+    {
+        "battle_soldier_config_id": 291010,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203051
+    },
+    {
+        "battle_soldier_config_id": 291010,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203042
+    },
+    {
+        "battle_soldier_config_id": 291010,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 291010,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203057
+    },
+    {
+        "battle_soldier_config_id": 291010,
+        "group_id": 5,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 291010,
+        "group_id": 6,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 291010,
+        "group_id": 7,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 291010,
+        "group_id": 8,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 291010,
+        "group_id": 9,
+        "soldier_count": 35,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 292001,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 292001,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 9,
+        "soldier_type_id": 202403
+    },
+    {
+        "battle_soldier_config_id": 292001,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 292001,
+        "group_id": 1,
+        "soldier_count": 4,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 292001,
+        "group_id": 2,
+        "soldier_count": 4,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 292002,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 292002,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 292002,
+        "group_id": 2,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 292002,
+        "group_id": 2,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 292003,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 292003,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 292003,
+        "group_id": 1,
+        "soldier_count": 4,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 292003,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 292004,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 292004,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 292004,
+        "group_id": 2,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 292004,
+        "group_id": 2,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 292005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 292005,
+        "group_id": 2,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 292005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 292005,
+        "group_id": 3,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 292005,
+        "group_id": 4,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 292005,
+        "group_id": 5,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 292006,
+        "group_id": 1,
+        "soldier_count": 7,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 292006,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 292006,
+        "group_id": 2,
+        "soldier_count": 7,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 292006,
+        "group_id": 2,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 292007,
+        "group_id": 1,
+        "soldier_count": 12,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 292007,
+        "group_id": 2,
+        "soldier_count": 12,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 292007,
+        "group_id": 3,
+        "soldier_count": 12,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 292007,
+        "group_id": 4,
+        "soldier_count": 12,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 292008,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 292008,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 292008,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 292009,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 292009,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203043
+    },
+    {
+        "battle_soldier_config_id": 292009,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203047
+    },
+    {
+        "battle_soldier_config_id": 292009,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203057
+    },
+    {
+        "battle_soldier_config_id": 292010,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 292010,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203042
+    },
+    {
+        "battle_soldier_config_id": 292010,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 292010,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203055
+    },
+    {
+        "battle_soldier_config_id": 292010,
+        "group_id": 5,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 292010,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 292010,
+        "group_id": 2,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 292010,
+        "group_id": 3,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 292010,
+        "group_id": 4,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 293001,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202704
+    },
+    {
+        "battle_soldier_config_id": 293001,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 293001,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203029
+    },
+    {
+        "battle_soldier_config_id": 293001,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 293001,
+        "group_id": 2,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 293002,
+        "group_id": 1,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203005
+    },
+    {
+        "battle_soldier_config_id": 293002,
+        "group_id": 1,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 293002,
+        "group_id": 2,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203007
+    },
+    {
+        "battle_soldier_config_id": 293002,
+        "group_id": 2,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203012
+    },
+    {
+        "battle_soldier_config_id": 293003,
+        "group_id": 1,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203016
+    },
+    {
+        "battle_soldier_config_id": 293003,
+        "group_id": 1,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203018
+    },
+    {
+        "battle_soldier_config_id": 293003,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 293003,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 293004,
+        "group_id": 1,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203022
+    },
+    {
+        "battle_soldier_config_id": 293004,
+        "group_id": 1,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203020
+    },
+    {
+        "battle_soldier_config_id": 293004,
+        "group_id": 2,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203022
+    },
+    {
+        "battle_soldier_config_id": 293004,
+        "group_id": 2,
+        "soldier_count": 75,
+        "equip_level": 10,
+        "soldier_type_id": 203020
+    },
+    {
+        "battle_soldier_config_id": 293005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 293005,
+        "group_id": 2,
+        "soldier_count": 3,
+        "equip_level": 10,
+        "soldier_type_id": 203029
+    },
+    {
+        "battle_soldier_config_id": 293005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 293005,
+        "group_id": 3,
+        "soldier_count": 3,
+        "equip_level": 10,
+        "soldier_type_id": 203029
+    },
+    {
+        "battle_soldier_config_id": 293005,
+        "group_id": 4,
+        "soldier_count": 3,
+        "equip_level": 10,
+        "soldier_type_id": 203029
+    },
+    {
+        "battle_soldier_config_id": 293005,
+        "group_id": 5,
+        "soldier_count": 3,
+        "equip_level": 10,
+        "soldier_type_id": 203029
+    },
+    {
+        "battle_soldier_config_id": 293006,
+        "group_id": 1,
+        "soldier_count": 8,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 293006,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203028
+    },
+    {
+        "battle_soldier_config_id": 293006,
+        "group_id": 2,
+        "soldier_count": 8,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 293006,
+        "group_id": 2,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203028
+    },
+    {
+        "battle_soldier_config_id": 293007,
+        "group_id": 1,
+        "soldier_count": 13,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 293007,
+        "group_id": 2,
+        "soldier_count": 13,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 293007,
+        "group_id": 3,
+        "soldier_count": 13,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 293007,
+        "group_id": 4,
+        "soldier_count": 13,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 293008,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 293008,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 293008,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 293009,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 293009,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203044
+    },
+    {
+        "battle_soldier_config_id": 293009,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203047
+    },
+    {
+        "battle_soldier_config_id": 293009,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203054
+    },
+    {
+        "battle_soldier_config_id": 293010,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 293010,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203042
+    },
+    {
+        "battle_soldier_config_id": 293010,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 293010,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203057
+    },
+    {
+        "battle_soldier_config_id": 293010,
+        "group_id": 5,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203027
+    },
+    {
+        "battle_soldier_config_id": 293010,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203027
+    },
+    {
+        "battle_soldier_config_id": 293010,
+        "group_id": 2,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203031
+    },
+    {
+        "battle_soldier_config_id": 293010,
+        "group_id": 3,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203031
+    },
+    {
+        "battle_soldier_config_id": 293010,
+        "group_id": 4,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203031
+    },
+    {
+        "battle_soldier_config_id": 294001,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202101
+    },
+    {
+        "battle_soldier_config_id": 294001,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 9,
+        "soldier_type_id": 202403
+    },
+    {
+        "battle_soldier_config_id": 294001,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 294001,
+        "group_id": 1,
+        "soldier_count": 6,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 294001,
+        "group_id": 2,
+        "soldier_count": 6,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 294002,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 294002,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 294002,
+        "group_id": 2,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 294002,
+        "group_id": 2,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 294003,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 294003,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 294003,
+        "group_id": 1,
+        "soldier_count": 6,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 294003,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 294004,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 294004,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 294004,
+        "group_id": 2,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 294004,
+        "group_id": 2,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 294005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 294005,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 294005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 294005,
+        "group_id": 3,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 294005,
+        "group_id": 4,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 294005,
+        "group_id": 5,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 294006,
+        "group_id": 1,
+        "soldier_count": 9,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 294006,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 294006,
+        "group_id": 2,
+        "soldier_count": 9,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 294006,
+        "group_id": 2,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 294007,
+        "group_id": 1,
+        "soldier_count": 14,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 294007,
+        "group_id": 2,
+        "soldier_count": 14,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 294007,
+        "group_id": 3,
+        "soldier_count": 14,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 294007,
+        "group_id": 4,
+        "soldier_count": 14,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 294008,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 294008,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 294008,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 294009,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 294009,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203043
+    },
+    {
+        "battle_soldier_config_id": 294009,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 294009,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203055
+    },
+    {
+        "battle_soldier_config_id": 294010,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 294010,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203042
+    },
+    {
+        "battle_soldier_config_id": 294010,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 294010,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203057
+    },
+    {
+        "battle_soldier_config_id": 294010,
+        "group_id": 5,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 294010,
+        "group_id": 6,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 294010,
+        "group_id": 7,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 294010,
+        "group_id": 8,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 294010,
+        "group_id": 9,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 295001,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202704
+    },
+    {
+        "battle_soldier_config_id": 295001,
+        "group_id": 1,
+        "soldier_count": 60,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 295001,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203020
+    },
+    {
+        "battle_soldier_config_id": 295001,
+        "group_id": 1,
+        "soldier_count": 7,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 295001,
+        "group_id": 2,
+        "soldier_count": 7,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 295002,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203014
+    },
+    {
+        "battle_soldier_config_id": 295002,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203016
+    },
+    {
+        "battle_soldier_config_id": 295002,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203003
+    },
+    {
+        "battle_soldier_config_id": 295002,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203016
+    },
+    {
+        "battle_soldier_config_id": 295003,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203028
+    },
+    {
+        "battle_soldier_config_id": 295003,
+        "group_id": 1,
+        "soldier_count": 100,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 295003,
+        "group_id": 1,
+        "soldier_count": 7,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 295003,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203053
+    },
+    {
+        "battle_soldier_config_id": 295004,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203029
+    },
+    {
+        "battle_soldier_config_id": 295004,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 10,
+        "soldier_type_id": 203030
+    },
+    {
+        "battle_soldier_config_id": 295004,
+        "group_id": 2,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203029
+    },
+    {
+        "battle_soldier_config_id": 295004,
+        "group_id": 2,
+        "soldier_count": 20,
+        "equip_level": 10,
+        "soldier_type_id": 203030
+    },
+    {
+        "battle_soldier_config_id": 295005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203053
+    },
+    {
+        "battle_soldier_config_id": 295005,
+        "group_id": 2,
+        "soldier_count": 20,
+        "equip_level": 10,
+        "soldier_type_id": 203031
+    },
+    {
+        "battle_soldier_config_id": 295005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203053
+    },
+    {
+        "battle_soldier_config_id": 295005,
+        "group_id": 3,
+        "soldier_count": 60,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 295005,
+        "group_id": 4,
+        "soldier_count": 60,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 295005,
+        "group_id": 5,
+        "soldier_count": 60,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 295006,
+        "group_id": 1,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 295006,
+        "group_id": 1,
+        "soldier_count": 45,
+        "equip_level": 10,
+        "soldier_type_id": 203015
+    },
+    {
+        "battle_soldier_config_id": 295006,
+        "group_id": 2,
+        "soldier_count": 10,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 295006,
+        "group_id": 2,
+        "soldier_count": 45,
+        "equip_level": 10,
+        "soldier_type_id": 203014
+    },
+    {
+        "battle_soldier_config_id": 295007,
+        "group_id": 1,
+        "soldier_count": 15,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 295007,
+        "group_id": 2,
+        "soldier_count": 15,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 295007,
+        "group_id": 3,
+        "soldier_count": 15,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 295007,
+        "group_id": 4,
+        "soldier_count": 15,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 295008,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203053
+    },
+    {
+        "battle_soldier_config_id": 295008,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203053
+    },
+    {
+        "battle_soldier_config_id": 295008,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203053
+    },
+    {
+        "battle_soldier_config_id": 295009,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203053
+    },
+    {
+        "battle_soldier_config_id": 295009,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203044
+    },
+    {
+        "battle_soldier_config_id": 295009,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203047
+    },
+    {
+        "battle_soldier_config_id": 295009,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203054
+    },
+    {
+        "battle_soldier_config_id": 295010,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203053
+    },
+    {
+        "battle_soldier_config_id": 295010,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203042
+    },
+    {
+        "battle_soldier_config_id": 295010,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 295010,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203057
+    },
+    {
+        "battle_soldier_config_id": 295010,
+        "group_id": 5,
+        "soldier_count": 55,
+        "equip_level": 10,
+        "soldier_type_id": 203001
+    },
+    {
+        "battle_soldier_config_id": 295010,
+        "group_id": 1,
+        "soldier_count": 55,
+        "equip_level": 10,
+        "soldier_type_id": 203007
+    },
+    {
+        "battle_soldier_config_id": 295010,
+        "group_id": 2,
+        "soldier_count": 80,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 295010,
+        "group_id": 3,
+        "soldier_count": 80,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 295010,
+        "group_id": 4,
+        "soldier_count": 80,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 296001,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202405
+    },
+    {
+        "battle_soldier_config_id": 296001,
+        "group_id": 1,
+        "soldier_count": 40,
+        "equip_level": 9,
+        "soldier_type_id": 202403
+    },
+    {
+        "battle_soldier_config_id": 296001,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 296001,
+        "group_id": 1,
+        "soldier_count": 8,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 296001,
+        "group_id": 2,
+        "soldier_count": 8,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 296002,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 296002,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 296002,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202601
+    },
+    {
+        "battle_soldier_config_id": 296002,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202102
+    },
+    {
+        "battle_soldier_config_id": 296003,
+        "group_id": 1,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 296003,
+        "group_id": 1,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 296003,
+        "group_id": 1,
+        "soldier_count": 8,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 296003,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 296004,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 296004,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 296004,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202304
+    },
+    {
+        "battle_soldier_config_id": 296004,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 296005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 296005,
+        "group_id": 2,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 296005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 9,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 296005,
+        "group_id": 3,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 296005,
+        "group_id": 4,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 296005,
+        "group_id": 5,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 296006,
+        "group_id": 1,
+        "soldier_count": 11,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 296006,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202701
+    },
+    {
+        "battle_soldier_config_id": 296006,
+        "group_id": 2,
+        "soldier_count": 11,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 296006,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202702
+    },
+    {
+        "battle_soldier_config_id": 296007,
+        "group_id": 1,
+        "soldier_count": 16,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 296007,
+        "group_id": 2,
+        "soldier_count": 16,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 296007,
+        "group_id": 3,
+        "soldier_count": 16,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 296007,
+        "group_id": 4,
+        "soldier_count": 16,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 296008,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 296008,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 296008,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 296009,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 296009,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203043
+    },
+    {
+        "battle_soldier_config_id": 296009,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 296009,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203056
+    },
+    {
+        "battle_soldier_config_id": 296010,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 296010,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203042
+    },
+    {
+        "battle_soldier_config_id": 296010,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 296010,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203057
+    },
+    {
+        "battle_soldier_config_id": 296010,
+        "group_id": 5,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 296010,
+        "group_id": 6,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202502
+    },
+    {
+        "battle_soldier_config_id": 296010,
+        "group_id": 7,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 296010,
+        "group_id": 8,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 296010,
+        "group_id": 9,
+        "soldier_count": 60,
+        "equip_level": 9,
+        "soldier_type_id": 202404
+    },
+    {
+        "battle_soldier_config_id": 297001,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 9,
+        "soldier_type_id": 202704
+    },
+    {
+        "battle_soldier_config_id": 297001,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203043
+    },
+    {
+        "battle_soldier_config_id": 297001,
+        "group_id": 1,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203003
+    },
+    {
+        "battle_soldier_config_id": 297001,
+        "group_id": 1,
+        "soldier_count": 8,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 297001,
+        "group_id": 2,
+        "soldier_count": 8,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 297002,
+        "group_id": 1,
+        "soldier_count": 30,
+        "equip_level": 10,
+        "soldier_type_id": 203004
+    },
+    {
+        "battle_soldier_config_id": 297002,
+        "group_id": 1,
+        "soldier_count": 100,
+        "equip_level": 10,
+        "soldier_type_id": 203006
+    },
+    {
+        "battle_soldier_config_id": 297002,
+        "group_id": 2,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203044
+    },
+    {
+        "battle_soldier_config_id": 297002,
+        "group_id": 2,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203045
+    },
+    {
+        "battle_soldier_config_id": 297003,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 297003,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203047
+    },
+    {
+        "battle_soldier_config_id": 297003,
+        "group_id": 1,
+        "soldier_count": 8,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 297003,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 297004,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203048
+    },
+    {
+        "battle_soldier_config_id": 297004,
+        "group_id": 1,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203049
+    },
+    {
+        "battle_soldier_config_id": 297004,
+        "group_id": 2,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203050
+    },
+    {
+        "battle_soldier_config_id": 297004,
+        "group_id": 2,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203051
+    },
+    {
+        "battle_soldier_config_id": 297005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 297005,
+        "group_id": 2,
+        "soldier_count": 5,
+        "equip_level": 10,
+        "soldier_type_id": 203029
+    },
+    {
+        "battle_soldier_config_id": 297005,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 297005,
+        "group_id": 3,
+        "soldier_count": 20,
+        "equip_level": 10,
+        "soldier_type_id": 203030
+    },
+    {
+        "battle_soldier_config_id": 297005,
+        "group_id": 4,
+        "soldier_count": 60,
+        "equip_level": 10,
+        "soldier_type_id": 203005
+    },
+    {
+        "battle_soldier_config_id": 297005,
+        "group_id": 5,
+        "soldier_count": 100,
+        "equip_level": 10,
+        "soldier_type_id": 203021
+    },
+    {
+        "battle_soldier_config_id": 297006,
+        "group_id": 1,
+        "soldier_count": 11,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 297006,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 10,
+        "soldier_type_id": 203031
+    },
+    {
+        "battle_soldier_config_id": 297006,
+        "group_id": 2,
+        "soldier_count": 11,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 297006,
+        "group_id": 2,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203015
+    },
+    {
+        "battle_soldier_config_id": 297007,
+        "group_id": 1,
+        "soldier_count": 16,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 297007,
+        "group_id": 2,
+        "soldier_count": 16,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 297007,
+        "group_id": 3,
+        "soldier_count": 16,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 297007,
+        "group_id": 4,
+        "soldier_count": 16,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    },
+    {
+        "battle_soldier_config_id": 297008,
+        "group_id": 1,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 297008,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 297008,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 297009,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 297009,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203043
+    },
+    {
+        "battle_soldier_config_id": 297009,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 297009,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203056
+    },
+    {
+        "battle_soldier_config_id": 297010,
+        "group_id": 1,
+        "soldier_count": 2,
+        "equip_level": 10,
+        "soldier_type_id": 203052
+    },
+    {
+        "battle_soldier_config_id": 297010,
+        "group_id": 2,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203042
+    },
+    {
+        "battle_soldier_config_id": 297010,
+        "group_id": 3,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203046
+    },
+    {
+        "battle_soldier_config_id": 297010,
+        "group_id": 4,
+        "soldier_count": 1,
+        "equip_level": 10,
+        "soldier_type_id": 203057
+    },
+    {
+        "battle_soldier_config_id": 297010,
+        "group_id": 5,
+        "soldier_count": 50,
+        "equip_level": 10,
+        "soldier_type_id": 203027
+    },
+    {
+        "battle_soldier_config_id": 297010,
+        "group_id": 1,
+        "soldier_count": 20,
+        "equip_level": 10,
+        "soldier_type_id": 203023
+    },
+    {
+        "battle_soldier_config_id": 297010,
+        "group_id": 2,
+        "soldier_count": 20,
+        "equip_level": 10,
+        "soldier_type_id": 203024
+    },
+    {
+        "battle_soldier_config_id": 297010,
+        "group_id": 3,
+        "soldier_count": 20,
+        "equip_level": 10,
+        "soldier_type_id": 203025
+    },
+    {
+        "battle_soldier_config_id": 297010,
+        "group_id": 4,
+        "soldier_count": 20,
+        "equip_level": 10,
+        "soldier_type_id": 203026
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "place_name_zh-CN": "西河",
+        "place_name_en": "Deerfalls",
+        "place_name_zh-TW": "西河"
+    },
+    {
+        "id": 2,
+        "place_name_zh-CN": "帝丘",
+        "place_name_en": "Quickbury",
+        "place_name_zh-TW": "帝丘"
+    },
+    {
+        "id": 3,
+        "place_name_zh-CN": "纶城",
+        "place_name_en": "Rimevale",
+        "place_name_zh-TW": "綸城"
+    },
+    {
+        "id": 4,
+        "place_name_zh-CN": "开阳",
+        "place_name_en": "Dirtwood",
+        "place_name_zh-TW": "開陽"
+    },
+    {
+        "id": 5,
+        "place_name_zh-CN": "陈留",
+        "place_name_en": "Cliffbell",
+        "place_name_zh-TW": "陳留"
+    },
+    {
+        "id": 6,
+        "place_name_zh-CN": "建业",
+        "place_name_en": "Cloudscar",
+        "place_name_zh-TW": "建業"
+    },
+    {
+        "id": 7,
+        "place_name_zh-CN": "乐都",
+        "place_name_en": "Direview",
+        "place_name_zh-TW": "樂都"
+    },
+    {
+        "id": 8,
+        "place_name_zh-CN": "辽阳",
+        "place_name_en": "Flatshade",
+        "place_name_zh-TW": "遼陽"
+    },
+    {
+        "id": 9,
+        "place_name_zh-CN": "兴庆",
+        "place_name_en": "Demonrock",
+        "place_name_zh-TW": "興慶"
+    },
+    {
+        "id": 10,
+        "place_name_zh-CN": "盛京",
+        "place_name_en": "Magemaw",
+        "place_name_zh-TW": "盛京"
+    },
+    {
+        "id": 11,
+        "place_name_zh-CN": "永隆",
+        "place_name_en": "Shadeshell",
+        "place_name_zh-TW": "永隆"
+    },
+    {
+        "id": 12,
+        "place_name_zh-CN": "永兴",
+        "place_name_en": "Dawnchill",
+        "place_name_zh-TW": "永興"
+    },
+    {
+        "id": 13,
+        "place_name_zh-CN": "苍西",
+        "place_name_en": "Direhill",
+        "place_name_zh-TW": "蒼西"
+    },
+    {
+        "id": 14,
+        "place_name_zh-CN": "扶海",
+        "place_name_en": "Barefrost",
+        "place_name_zh-TW": "扶海"
+    },
+    {
+        "id": 15,
+        "place_name_zh-CN": "龙潭",
+        "place_name_en": "Eversummit",
+        "place_name_zh-TW": "龍潭"
+    },
+    {
+        "id": 16,
+        "place_name_zh-CN": "义天",
+        "place_name_en": "Blackstar",
+        "place_name_zh-TW": "義天"
+    },
+    {
+        "id": 17,
+        "place_name_zh-CN": "车师",
+        "place_name_en": "Grayhill",
+        "place_name_zh-TW": "車師"
+    },
+    {
+        "id": 18,
+        "place_name_zh-CN": "太庸城",
+        "place_name_en": "Summerview",
+        "place_name_zh-TW": "太庸城"
+    },
+    {
+        "id": 19,
+        "place_name_zh-CN": "赤幽城",
+        "place_name_en": "Oceanshear",
+        "place_name_zh-TW": "赤幽城"
+    },
+    {
+        "id": 20,
+        "place_name_zh-CN": "炽星城",
+        "place_name_en": "Silvermaw",
+        "place_name_zh-TW": "熾星城"
+    },
+    {
+        "id": 21,
+        "place_name_zh-CN": "茶浪岭",
+        "place_name_en": "Oxmaw",
+        "place_name_zh-TW": "茶浪嶺"
+    },
+    {
+        "id": 22,
+        "place_name_zh-CN": "桂花坪",
+        "place_name_en": "Windvault",
+        "place_name_zh-TW": "桂花坪"
+    },
+    {
+        "id": 23,
+        "place_name_zh-CN": "武陵溪",
+        "place_name_en": "Shroudgulf",
+        "place_name_zh-TW": "武陵溪"
+    },
+    {
+        "id": 24,
+        "place_name_zh-CN": "满月桥",
+        "place_name_en": "Dewgrave",
+        "place_name_zh-TW": "滿月橋"
+    },
+    {
+        "id": 25,
+        "place_name_zh-CN": "即墨",
+        "place_name_en": "Lightpond",
+        "place_name_zh-TW": "即墨"
+    },
+    {
+        "id": 26,
+        "place_name_zh-CN": "江宁城",
+        "place_name_en": "Pearlyard",
+        "place_name_zh-TW": "江寧城"
+    },
+    {
+        "id": 27,
+        "place_name_zh-CN": "九林城",
+        "place_name_en": "Starpond",
+        "place_name_zh-TW": "九林城"
+    },
+    {
+        "id": 28,
+        "place_name_zh-CN": "永纪城",
+        "place_name_en": "Deepband",
+        "place_name_zh-TW": "永紀城"
+    },
+    {
+        "id": 29,
+        "place_name_zh-CN": "陵阳城",
+        "place_name_en": "Amberstorm",
+        "place_name_zh-TW": "陵陽城"
+    },
+    {
+        "id": 30,
+        "place_name_zh-CN": "崇安城",
+        "place_name_en": "Oxrest",
+        "place_name_zh-TW": "崇安城"
+    },
+    {
+        "id": 31,
+        "place_name_zh-CN": "天水",
+        "place_name_en": "Terra",
+        "place_name_zh-TW": "天水"
+    },
+    {
+        "id": 32,
+        "place_name_zh-CN": "扶风",
+        "place_name_en": "Neverland",
+        "place_name_zh-TW": "扶風"
+    },
+    {
+        "id": 33,
+        "place_name_zh-CN": "云深处",
+        "place_name_en": "Barsoom",
+        "place_name_zh-TW": "雲深處"
+    },
+    {
+        "id": 34,
+        "place_name_zh-CN": "洛丹伦",
+        "place_name_en": "Aurora",
+        "place_name_zh-TW": "洛丹倫"
+    },
+    {
+        "id": 35,
+        "place_name_zh-CN": "雷霆崖",
+        "place_name_en": "Arcadia",
+        "place_name_zh-TW": "雷霆崖"
+    },
+    {
+        "id": 36,
+        "place_name_zh-CN": "盐泉村",
+        "place_name_en": "Prydain",
+        "place_name_zh-TW": "鹽泉村"
+    },
+    {
+        "id": 37,
+        "place_name_zh-CN": "晴风村",
+        "place_name_en": "Avalon",
+        "place_name_zh-TW": "晴風村"
+    },
+    {
+        "id": 38,
+        "place_name_zh-CN": "银月城",
+        "place_name_en": "Narnia",
+        "place_name_zh-TW": "銀月城"
+    },
+    {
+        "id": 39,
+        "place_name_zh-CN": "蜀中城",
+        "place_name_en": "Gondor",
+        "place_name_zh-TW": "蜀中城"
+    },
+    {
+        "id": 40,
+        "place_name_zh-CN": "冬泉谷",
+        "place_name_en": "Rohan",
+        "place_name_zh-TW": "冬泉谷"
+    },
+    {
+        "id": 41,
+        "place_name_zh-CN": "云轩城",
+        "place_name_en": "Snowpeak",
+        "place_name_zh-TW": "雲軒城"
+    },
+    {
+        "id": 42,
+        "place_name_zh-CN": "四风谷",
+        "place_name_en": "Ironforge",
+        "place_name_zh-TW": "四風谷"
+    },
+    {
+        "id": 43,
+        "place_name_zh-CN": "锦绣谷",
+        "place_name_en": "Wildspitze",
+        "place_name_zh-TW": "錦繡谷"
+    },
+    {
+        "id": 44,
+        "place_name_zh-CN": "双月殿",
+        "place_name_en": "Valdron",
+        "place_name_zh-TW": "雙月殿"
+    },
+    {
+        "id": 45,
+        "place_name_zh-CN": "七星殿",
+        "place_name_en": "Maggiore",
+        "place_name_zh-TW": "七星殿"
+    },
+    {
+        "id": 46,
+        "place_name_zh-CN": "蟠龙脊",
+        "place_name_en": "Myre",
+        "place_name_zh-TW": "蟠龍脊"
+    },
+    {
+        "id": 47,
+        "place_name_zh-CN": "苏拉玛",
+        "place_name_en": "Grima",
+        "place_name_zh-TW": "蘇拉瑪"
+    },
+    {
+        "id": 48,
+        "place_name_zh-CN": "兰陵城",
+        "place_name_en": "Tengri",
+        "place_name_zh-TW": "蘭陵城"
+    },
+    {
+        "id": 49,
+        "place_name_zh-CN": "幽云城",
+        "place_name_en": "Askersund",
+        "place_name_zh-TW": "幽雲城"
+    },
+    {
+        "id": 50,
+        "place_name_zh-CN": "九州城",
+        "place_name_en": "Dompatria",
+        "place_name_zh-TW": "九州城"
+    },
+    {
+        "id": 51,
+        "place_name_zh-CN": "云梦城",
+        "place_name_en": "Soralia",
+        "place_name_zh-TW": "雲夢城"
+    },
+    {
+        "id": 52,
+        "place_name_zh-CN": "缥缈城",
+        "place_name_en": "Ganus",
+        "place_name_zh-TW": "縹緲城"
+    },
+    {
+        "id": 53,
+        "place_name_zh-CN": "天盛城",
+        "place_name_en": "Bannergarde",
+        "place_name_zh-TW": "天盛城"
+    },
+    {
+        "id": 54,
+        "place_name_zh-CN": "青阳城",
+        "place_name_en": "Pulicat",
+        "place_name_zh-TW": "青陽城"
+    },
+    {
+        "id": 55,
+        "place_name_zh-CN": "天水城",
+        "place_name_en": "Lorathyra",
+        "place_name_zh-TW": "天水城"
+    },
+    {
+        "id": 56,
+        "place_name_zh-CN": "清风城",
+        "place_name_en": "Shoksha",
+        "place_name_zh-TW": "清風城"
+    },
+    {
+        "id": 57,
+        "place_name_zh-CN": "白云城",
+        "place_name_en": "Griweth",
+        "place_name_zh-TW": "白雲城"
+    },
+    {
+        "id": 58,
+        "place_name_zh-CN": "桃花坞",
+        "place_name_en": "Khodour",
+        "place_name_zh-TW": "桃花塢"
+    },
+    {
+        "id": 59,
+        "place_name_zh-CN": "海角城",
+        "place_name_en": "Camden",
+        "place_name_zh-TW": "海角城"
+    },
+    {
+        "id": 60,
+        "place_name_zh-CN": "月牙城",
+        "place_name_en": "Thesshire",
+        "place_name_zh-TW": "月牙城"
+    },
+    {
+        "id": 61,
+        "place_name_zh-CN": "逍遥城",
+        "place_name_en": "Thorum",
+        "place_name_zh-TW": "逍遙城"
+    },
+    {
+        "id": 62,
+        "place_name_zh-CN": "永安城",
+        "place_name_en": "Bantius",
+        "place_name_zh-TW": "永安城"
+    },
+    {
+        "id": 63,
+        "place_name_zh-CN": "凌霄城",
+        "place_name_en": "Gravago",
+        "place_name_zh-TW": "淩霄城"
+    },
+    {
+        "id": 64,
+        "place_name_zh-CN": "西岚城",
+        "place_name_en": "Svendborg",
+        "place_name_zh-TW": "西嵐城"
+    },
+    {
+        "id": 65,
+        "place_name_zh-CN": "枫城",
+        "place_name_en": "Mulhacen",
+        "place_name_zh-TW": "楓城"
+    },
+    {
+        "id": 66,
+        "place_name_zh-CN": "朝歌城",
+        "place_name_en": "Lulusar",
+        "place_name_zh-TW": "朝歌城"
+    },
+    {
+        "id": 67,
+        "place_name_zh-CN": "晚归城",
+        "place_name_en": "Payee",
+        "place_name_zh-TW": "晚歸城"
+    },
+    {
+        "id": 68,
+        "place_name_zh-CN": "不栖岭",
+        "place_name_en": "Maritria",
+        "place_name_zh-TW": "不棲嶺"
+    },
+    {
+        "id": 69,
+        "place_name_zh-CN": "云归阜",
+        "place_name_en": "Raenmora",
+        "place_name_zh-TW": "雲歸阜"
+    },
+    {
+        "id": 70,
+        "place_name_zh-CN": "艾拉城",
+        "place_name_en": "Tarbent",
+        "place_name_zh-TW": "艾拉城"
+    },
+    {
+        "id": 71,
+        "place_name_zh-CN": "凯特城",
+        "place_name_en": "Mutiger",
+        "place_name_zh-TW": "凱特城"
+    },
+    {
+        "id": 72,
+        "place_name_zh-CN": "龙城",
+        "place_name_en": "Gunflint",
+        "place_name_zh-TW": "龍城"
+    },
+    {
+        "id": 73,
+        "place_name_zh-CN": "永城",
+        "place_name_en": "Monfort",
+        "place_name_zh-TW": "永城"
+    },
+    {
+        "id": 74,
+        "place_name_zh-CN": "清城",
+        "place_name_en": "Sowhorn",
+        "place_name_zh-TW": "清城"
+    },
+    {
+        "id": 75,
+        "place_name_zh-CN": "宁城",
+        "place_name_en": "Thesshire",
+        "place_name_zh-TW": "寧城"
+    },
+    {
+        "id": 76,
+        "place_name_zh-CN": "四海峰",
+        "place_name_en": "Sibyl",
+        "place_name_zh-TW": "四海峰"
+    },
+    {
+        "id": 77,
+        "place_name_zh-CN": "定风洞",
+        "place_name_en": "Keynes",
+        "place_name_zh-TW": "定風洞"
+    },
+    {
+        "id": 78,
+        "place_name_zh-CN": "混天关",
+        "place_name_en": "Murkora",
+        "place_name_zh-TW": "混天關"
+    },
+    {
+        "id": 79,
+        "place_name_zh-CN": "安庆山",
+        "place_name_en": "Fransano",
+        "place_name_zh-TW": "安慶山"
+    },
+    {
+        "id": 80,
+        "place_name_zh-CN": "霸王屿",
+        "place_name_en": "Cyrenae",
+        "place_name_zh-TW": "霸王嶼"
+    }
+]

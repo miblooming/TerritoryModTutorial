@@ -1,0 +1,470 @@
+[
+    {
+        "stuff_type": 1,
+        "stuff_type_name_zh-CN": "建筑设施"
+    },
+    {
+        "stuff_type": 2,
+        "stuff_type_name_zh-CN": "战斗单位"
+    },
+    {
+        "stuff_type": 3,
+        "stuff_type_name_zh-CN": "食物"
+    },
+    {
+        "stuff_type": 4,
+        "stuff_type_name_zh-CN": "加工品"
+    },
+    {
+        "stuff_type": 5,
+        "stuff_type_name_zh-CN": "动物"
+    },
+    {
+        "stuff_type": 6,
+        "stuff_type_name_zh-CN": "原料"
+    },
+    {
+        "stuff_type": 7,
+        "stuff_type_name_zh-CN": "种子"
+    },
+    {
+        "stuff_type": 8,
+        "stuff_type_name_zh-CN": "地图元素"
+    },
+    {
+        "stuff_type": 9,
+        "stuff_type_name_zh-CN": "其它"
+    },
+    {
+        "stuff_type": 100,
+        "stuff_type_name_zh-CN": "初始马车"
+    },
+    {
+        "stuff_type": 101,
+        "stuff_type_name_zh-CN": "住房"
+    },
+    {
+        "stuff_type": 102,
+        "stuff_type_name_zh-CN": "交通设施"
+    },
+    {
+        "stuff_type": 103,
+        "stuff_type_name_zh-CN": "物流仓储"
+    },
+    {
+        "stuff_type": 104,
+        "stuff_type_name_zh-CN": "市政设施"
+    },
+    {
+        "stuff_type": 105,
+        "stuff_type_name_zh-CN": "生产设施"
+    },
+    {
+        "stuff_type": 106,
+        "stuff_type_name_zh-CN": "军事设施"
+    },
+    {
+        "stuff_type": 107,
+        "stuff_type_name_zh-CN": "敌人军事设施"
+    },
+    {
+        "stuff_type": 108,
+        "stuff_type_name_zh-CN": "地图元素"
+    },
+    {
+        "stuff_type": 109,
+        "stuff_type_name_zh-CN": "皇家设施"
+    },
+    {
+        "stuff_type": 110,
+        "stuff_type_name_zh-CN": "聚居地"
+    },
+    {
+        "stuff_type": 111,
+        "stuff_type_name_zh-CN": "奇观"
+    },
+    {
+        "stuff_type": 112,
+        "stuff_type_name_zh-CN": "旗帜"
+    },
+    {
+        "stuff_type": 113,
+        "stuff_type_name_zh-CN": "交通设施"
+    },
+    {
+        "stuff_type": 201,
+        "stuff_type_name_zh-CN": "怪物"
+    },
+    {
+        "stuff_type": 202,
+        "stuff_type_name_zh-CN": "兵种"
+    },
+    {
+        "stuff_type": 203,
+        "stuff_type_name_zh-CN": "怪物"
+    },
+    {
+        "stuff_type": 301,
+        "stuff_type_name_zh-CN": "蔬菜"
+    },
+    {
+        "stuff_type": 302,
+        "stuff_type_name_zh-CN": "粮食"
+    },
+    {
+        "stuff_type": 303,
+        "stuff_type_name_zh-CN": "水果"
+    },
+    {
+        "stuff_type": 304,
+        "stuff_type_name_zh-CN": "肉类"
+    },
+    {
+        "stuff_type": 305,
+        "stuff_type_name_zh-CN": "烹饪食品"
+    },
+    {
+        "stuff_type": 306,
+        "stuff_type_name_zh-CN": "蜂蜜"
+    },
+    {
+        "stuff_type": 401,
+        "stuff_type_name_zh-CN": "酒水"
+    },
+    {
+        "stuff_type": 402,
+        "stuff_type_name_zh-CN": "取暖"
+    },
+    {
+        "stuff_type": 403,
+        "stuff_type_name_zh-CN": "工具"
+    },
+    {
+        "stuff_type": 404,
+        "stuff_type_name_zh-CN": "衣服"
+    },
+    {
+        "stuff_type": 405,
+        "stuff_type_name_zh-CN": "具体武器"
+    },
+    {
+        "stuff_type": 407,
+        "stuff_type_name_zh-CN": "具体盔甲"
+    },
+    {
+        "stuff_type": 408,
+        "stuff_type_name_zh-CN": "具体盾牌"
+    },
+    {
+        "stuff_type": 409,
+        "stuff_type_name_zh-CN": "战车"
+    },
+    {
+        "stuff_type": 410,
+        "stuff_type_name_zh-CN": "泰坦之心"
+    },
+    {
+        "stuff_type": 412,
+        "stuff_type_name_zh-CN": "零食"
+    },
+    {
+        "stuff_type": 413,
+        "stuff_type_name_zh-CN": "武器"
+    },
+    {
+        "stuff_type": 414,
+        "stuff_type_name_zh-CN": "盾牌"
+    },
+    {
+        "stuff_type": 415,
+        "stuff_type_name_zh-CN": "盔甲"
+    },
+    {
+        "stuff_type": 416,
+        "stuff_type_name_zh-CN": "车"
+    },
+    {
+        "stuff_type": 417,
+        "stuff_type_name_zh-CN": "损坏的装备"
+    },
+    {
+        "stuff_type": 418,
+        "stuff_type_name_zh-CN": "特殊药物"
+    },
+    {
+        "stuff_type": 419,
+        "stuff_type_name_zh-CN": "雨伞"
+    },
+    {
+        "stuff_type": 420,
+        "stuff_type_name_zh-CN": "皮包"
+    },
+    {
+        "stuff_type": 421,
+        "stuff_type_name_zh-CN": "药茶"
+    },
+    {
+        "stuff_type": 422,
+        "stuff_type_name_zh-CN": "火药"
+    },
+    {
+        "stuff_type": 423,
+        "stuff_type_name_zh-CN": "炮弹"
+    },
+    {
+        "stuff_type": 424,
+        "stuff_type_name_zh-CN": "书籍"
+    },
+    {
+        "stuff_type": 425,
+        "stuff_type_name_zh-CN": "炮弹"
+    },
+    {
+        "stuff_type": 426,
+        "stuff_type_name_zh-CN": "戒指"
+    },
+    {
+        "stuff_type": 427,
+        "stuff_type_name_zh-CN": "项链"
+    },
+    {
+        "stuff_type": 428,
+        "stuff_type_name_zh-CN": "火药"
+    },
+    {
+        "stuff_type": 429,
+        "stuff_type_name_zh-CN": "兽药"
+    },
+    {
+        "stuff_type": 430,
+        "stuff_type_name_zh-CN": "联机专属物品"
+    },
+    {
+        "stuff_type": 501,
+        "stuff_type_name_zh-CN": "家养动物"
+    },
+    {
+        "stuff_type": 502,
+        "stuff_type_name_zh-CN": "野生动物"
+    },
+    {
+        "stuff_type": 503,
+        "stuff_type_name_zh-CN": "宠物"
+    },
+    {
+        "stuff_type": 504,
+        "stuff_type_name_zh-CN": "战斗坐骑"
+    },
+    {
+        "stuff_type": 601,
+        "stuff_type_name_zh-CN": "煤"
+    },
+    {
+        "stuff_type": 602,
+        "stuff_type_name_zh-CN": "药物"
+    },
+    {
+        "stuff_type": 603,
+        "stuff_type_name_zh-CN": "金属"
+    },
+    {
+        "stuff_type": 604,
+        "stuff_type_name_zh-CN": "原木"
+    },
+    {
+        "stuff_type": 605,
+        "stuff_type_name_zh-CN": "石料"
+    },
+    {
+        "stuff_type": 606,
+        "stuff_type_name_zh-CN": "衣料"
+    },
+    {
+        "stuff_type": 607,
+        "stuff_type_name_zh-CN": "银"
+    },
+    {
+        "stuff_type": 608,
+        "stuff_type_name_zh-CN": "金"
+    },
+    {
+        "stuff_type": 609,
+        "stuff_type_name_zh-CN": "肥料"
+    },
+    {
+        "stuff_type": 610,
+        "stuff_type_name_zh-CN": "原料"
+    },
+    {
+        "stuff_type": 611,
+        "stuff_type_name_zh-CN": "零食原料"
+    },
+    {
+        "stuff_type": 612,
+        "stuff_type_name_zh-CN": "宝石"
+    },
+    {
+        "stuff_type": 613,
+        "stuff_type_name_zh-CN": "金蛋"
+    },
+    {
+        "stuff_type": 614,
+        "stuff_type_name_zh-CN": "香料"
+    },
+    {
+        "stuff_type": 615,
+        "stuff_type_name_zh-CN": "宝石碎片"
+    },
+    {
+        "stuff_type": 616,
+        "stuff_type_name_zh-CN": "矿石"
+    },
+    {
+        "stuff_type": 617,
+        "stuff_type_name_zh-CN": "饲料"
+    },
+    {
+        "stuff_type": 618,
+        "stuff_type_name_zh-CN": "银币"
+    },
+    {
+        "stuff_type": 619,
+        "stuff_type_name_zh-CN": "宝石"
+    },
+    {
+        "stuff_type": 620,
+        "stuff_type_name_zh-CN": "怪物素材"
+    },
+    {
+        "stuff_type": 621,
+        "stuff_type_name_zh-CN": "鲜花"
+    },
+    {
+        "stuff_type": 701,
+        "stuff_type_name_zh-CN": "农田种子"
+    },
+    {
+        "stuff_type": 702,
+        "stuff_type_name_zh-CN": "农田种子"
+    },
+    {
+        "stuff_type": 703,
+        "stuff_type_name_zh-CN": "果园种子"
+    },
+    {
+        "stuff_type": 704,
+        "stuff_type_name_zh-CN": "花种子"
+    },
+    {
+        "stuff_type": 705,
+        "stuff_type_name_zh-CN": "雕像"
+    },
+    {
+        "stuff_type": 706,
+        "stuff_type_name_zh-CN": "船"
+    },
+    {
+        "stuff_type": 707,
+        "stuff_type_name_zh-CN": "经济作物"
+    },
+    {
+        "stuff_type": 801,
+        "stuff_type_name_zh-CN": "死亡的动物"
+    },
+    {
+        "stuff_type": 802,
+        "stuff_type_name_zh-CN": "船"
+    },
+    {
+        "stuff_type": 803,
+        "stuff_type_name_zh-CN": "图标"
+    },
+    {
+        "stuff_type": 804,
+        "stuff_type_name_zh-CN": "尸体"
+    },
+    {
+        "stuff_type": 805,
+        "stuff_type_name_zh-CN": "已宰杀的动物"
+    },
+    {
+        "stuff_type": 806,
+        "stuff_type_name_zh-CN": "商人"
+    },
+    {
+        "stuff_type": 807,
+        "stuff_type_name_zh-CN": "战车"
+    },
+    {
+        "stuff_type": 808,
+        "stuff_type_name_zh-CN": "未知"
+    },
+    {
+        "stuff_type": 809,
+        "stuff_type_name_zh-CN": "感染源"
+    },
+    {
+        "stuff_type": 810,
+        "stuff_type_name_zh-CN": "场景元素"
+    },
+    {
+        "stuff_type": 811,
+        "stuff_type_name_zh-CN": "场景BUFF"
+    },
+    {
+        "stuff_type": 812,
+        "stuff_type_name_zh-CN": "种族"
+    },
+    {
+        "stuff_type": 813,
+        "stuff_type_name_zh-CN": "派对"
+    },
+    {
+        "stuff_type": 814,
+        "stuff_type_name_zh-CN": "帝国区域"
+    },
+    {
+        "stuff_type": 815,
+        "stuff_type_name_zh-CN": "龙专属物品"
+    },
+    {
+        "stuff_type": 901,
+        "stuff_type_name_zh-CN": "信仰"
+    },
+    {
+        "stuff_type": 902,
+        "stuff_type_name_zh-CN": "技术思想"
+    },
+    {
+        "stuff_type": 903,
+        "stuff_type_name_zh-CN": "战斗技能"
+    },
+    {
+        "stuff_type": 904,
+        "stuff_type_name_zh-CN": "外交思想"
+    },
+    {
+        "stuff_type": 905,
+        "stuff_type_name_zh-CN": "内政思想"
+    },
+    {
+        "stuff_type": 906,
+        "stuff_type_name_zh-CN": "奇迹"
+    },
+    {
+        "stuff_type": 907,
+        "stuff_type_name_zh-CN": "领主光环"
+    },
+    {
+        "stuff_type": 908,
+        "stuff_type_name_zh-CN": "领主性格"
+    },
+    {
+        "stuff_type": 909,
+        "stuff_type_name_zh-CN": "其它"
+    },
+    {
+        "stuff_type": 910,
+        "stuff_type_name_zh-CN": "文字"
+    }
+]

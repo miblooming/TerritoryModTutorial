@@ -1,0 +1,58 @@
+[
+    {
+        "outsider_id": 1,
+        "npc_type": "-15",
+        "race_id": 812001,
+        "recruit_price_min": "50",
+        "traveller_count_min": "2",
+        "traveller_count_max": "4",
+        "appear_month": "3",
+        "stay_days": 180,
+        "age_min": 35,
+        "age_max": 45,
+        "init_clothes": 404001,
+        "silver_count": 10
+    },
+    {
+        "outsider_id": 2,
+        "npc_type": "-15",
+        "race_id": 812002,
+        "recruit_price_min": "70",
+        "traveller_count_min": "4",
+        "traveller_count_max": "6",
+        "appear_month": 3,
+        "stay_days": 180,
+        "age_min": 35,
+        "age_max": 45,
+        "init_clothes": 404001,
+        "silver_count": 10
+    },
+    {
+        "outsider_id": 3,
+        "npc_type": "-15",
+        "race_id": 812000,
+        "recruit_price_min": "110",
+        "traveller_count_min": "8",
+        "traveller_count_max": "10",
+        "appear_month": 3,
+        "stay_days": 180,
+        "age_min": 35,
+        "age_max": 45,
+        "init_clothes": 404001,
+        "silver_count": 10
+    },
+    {
+        "outsider_id": 4,
+        "npc_type": "-15",
+        "race_id": 812000,
+        "recruit_price_min": "130",
+        "traveller_count_min": "10",
+        "traveller_count_max": "12",
+        "appear_month": 3,
+        "stay_days": 180,
+        "age_min": 35,
+        "age_max": 45,
+        "init_clothes": 404001,
+        "silver_count": 10
+    }
+]

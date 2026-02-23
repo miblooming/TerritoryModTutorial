@@ -1,0 +1,583 @@
+[
+    {
+        "city_id": 1,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 2000,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "2001",
+        "ai_product_config_id": 1,
+        "caravan_visit_month": 1,
+        "caravan_meeting_days": 90,
+        "direction": 0
+    },
+    {
+        "city_id": "2002",
+        "ai_product_config_id": 2,
+        "caravan_visit_month": 4,
+        "caravan_meeting_days": 90,
+        "direction": 1
+    },
+    {
+        "city_id": "2003",
+        "ai_product_config_id": 3,
+        "caravan_visit_month": 7,
+        "caravan_meeting_days": 90,
+        "direction": 2
+    },
+    {
+        "city_id": "2004",
+        "ai_product_config_id": 4,
+        "caravan_visit_month": 10,
+        "caravan_meeting_days": 90,
+        "direction": 3
+    },
+    {
+        "city_id": "2005",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "2006",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "2007",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1001,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1002,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1003,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1004,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1005,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1006,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1007,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1008,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1009,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1010,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1011,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1012,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1013,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1014,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1015,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1016,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1017,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1018,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1019,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1020,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1021,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1022,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1023,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1024,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1025,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1026,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1027,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1028,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1029,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1030,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1031,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1032,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1033,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1034,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1035,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1036,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1037,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1038,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1039,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1040,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1041,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1042,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1043,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1044,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1045,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1046,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1047,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1048,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1049,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1050,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1051,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1052,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1053,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1054,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1055,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1056,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1057,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1058,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1059,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1060,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1061,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1062,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1063,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1064,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": 1065,
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "3001",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "3002",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "3003",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "3004",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "3005",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "3006",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "3007",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "3008",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    },
+    {
+        "city_id": "3009",
+        "ai_product_config_id": "",
+        "caravan_visit_month": "",
+        "caravan_meeting_days": "",
+        "direction": -1
+    }
+]
