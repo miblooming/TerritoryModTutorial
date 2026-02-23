@@ -41,7 +41,9 @@ ModExample为Mod示例教程，每个文件夹打开后，还有相关简要说�
 	
 4.将dll保存到ModExample/Assemblies文件夹中  
 
-5.注意  
+5.其它文件夹，存放图片，音效及配置等，如果本Mod不涉及，需删除
+
+6.注意  
 	新的mod上传后，会生成Mod在Steam平台的唯一Id：ModExample/About/PublishedFileId.txt  
 	不要修改此文件，这样后续更新Mod后，Steam会根据此Id更新Mod，所有订阅Mod的玩家将收到更新  
 	如果不存在PublishedFileId.txt这个文件，则将当全新的Mod上传 
