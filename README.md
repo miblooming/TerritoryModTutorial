@@ -51,7 +51,7 @@ ModExample为Mod示例教程，每个文件夹打开后，还有相关简要说�
 
 7.Mod开发测试
 
-	比如当前开发的Mod，存放在文件夹MyMod1。则可将此Mod复制到*C:/TerritoryModTest*文件夹中，游戏启动时会自动加载此MOD
+	将正在开发的Mod中的所有文件（注意，不在包含Mod文件夹本身），复制到*C:/TerritoryModTest*文件夹中，游戏启动时会自动加载此MOD
 
 
 
