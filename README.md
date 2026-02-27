@@ -7,17 +7,17 @@
 # 当前已实现的功能
 在Assemblies添加dll，修改游戏功能
 
-在ModXXX/BuildBlueprint中保存建造布局蓝图，以Mod的形式，分享给其它人
+在ModXXX/BuildBlueprint中保存建造布局蓝图，以Mod的形式，分享给其它人[查看详情](https://github.com/miblooming/TerritoryModTutorial/tree/main/ModExample/BuildBlueprint)
 
-在ModXXX/Map中保存自定义地图，以Mod的形式，分享给其它人
+在ModXXX/Map中保存自定义地图，以Mod的形式，分享给其它人[查看详情](https://github.com/miblooming/TerritoryModTutorial/tree/main/ModExample/Map)
 
-在ModXXX/Defs中保存配置文件，自动修改游戏数据
+在ModXXX/Defs中保存配置文件，自动修改游戏数据[查看详情](https://github.com/miblooming/TerritoryModTutorial/tree/main/ModExample/Defs)
 
-在ModXXX/Textures中保存图片文件，自动修改游戏图片或添加图片
+在ModXXX/Textures中保存图片文件，自动修改游戏图片或添加图片[查看详情](https://github.com/miblooming/TerritoryModTutorial/tree/main/ModExample/Textures)
 
-在ModXXX/Sounds中保存音频文件，自动修改或添加音效或背景音乐
+在ModXXX/Sounds中保存音频文件，自动修改或添加音效或背景音乐[查看详情](https://github.com/miblooming/TerritoryModTutorial/tree/main/ModExample/Sounds)
 
-在ModXXX/Languages中保存本地化翻译文件，优化翻译文本
+在ModXXX/Languages中保存本地化翻译文件，优化翻译文本[查看详情](https://github.com/miblooming/TerritoryModTutorial/tree/main/ModExample/Languages)
 
 # 教程注意
 ModExample为Mod示例教程，每个文件夹打开后，还有相关简要说明
