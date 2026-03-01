@@ -19,9 +19,9 @@ Russian: <color=#4CB34C>Zerlin</color>, <color=#4CB34C>Tristis Oris</color>
 
 第4步：如需添加或修改人物名称姓氏，可修改以下：
 
-  character_name/family_name_French.txt
-  character_name/male_name_French.txt
-  character_name/female_name_French.txt
+    character_name/family_name_French.txt
+    character_name/male_name_French.txt
+    character_name/female_name_French.txt
 
 *注意：*
 
