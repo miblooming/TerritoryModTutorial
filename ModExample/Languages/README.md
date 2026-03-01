@@ -34,19 +34,19 @@ Russian: <color=#4CB34C>Zerlin</color>, <color=#4CB34C>Tristis Oris</color>
 
 1.Defs文件夹中，新建language.json,并填写以下内容
 
-  [
-    {
-        "language_id": 12,
-        "language_name_cn": "越南语",
-        "enable": 1,
-        "language_name": "Tiếng Việt",
-        "language_name_en": "Vietnamese",
-        "language_code": "vi",
-        "unity_language_code": "Vietnamese",
-        "steam_language_code": "vietnamese",
-        "is_surname_come_first": true
-    }
-]
+        [
+            {
+                "language_id": 12,
+                "language_name_cn": "越南语",
+                "enable": 1,
+                "language_name": "Tiếng Việt",
+                "language_name_en": "Vietnamese",
+                "language_code": "vi",
+                "unity_language_code": "Vietnamese",
+                "steam_language_code": "vietnamese",
+                "is_surname_come_first": true
+            }
+        ]
 
 2.将localization_str_English.txt复制到Mod的Languages文件夹，将文件名修改为localization_str_Vietnamese.txt。然后翻译其中的文本。
 
