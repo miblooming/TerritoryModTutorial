@@ -52,7 +52,10 @@
         "faeces_unit_count": 3,
         "faeces_interval_days": 90,
         "faeces_interval_days_random_range": 5,
-        "faeces_keep_days_in_wild": 45
+        "faeces_keep_days_in_wild": 45,
+        "body_walk": "0,1,2,3,4,5,6,7,8",
+        "body_idle": "9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+        "total_frame_count": 23
     },
     {
         "animal_id": 501002,
@@ -107,7 +110,10 @@
         "faeces_unit_count": 3,
         "faeces_interval_days": 60,
         "faeces_interval_days_random_range": 5,
-        "faeces_keep_days_in_wild": 30
+        "faeces_keep_days_in_wild": 30,
+        "body_walk": "0,1,2,3,4,5,6,7",
+        "body_idle": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+        "total_frame_count": 30
     },
     {
         "animal_id": 501003,
@@ -162,7 +168,10 @@
         "faeces_unit_count": 3,
         "faeces_interval_days": 50,
         "faeces_interval_days_random_range": 5,
-        "faeces_keep_days_in_wild": 30
+        "faeces_keep_days_in_wild": 30,
+        "body_walk": "21,22,23,24,25,26,27,28,29",
+        "body_idle": "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,0,0,0,0,0,0,0,0,0",
+        "total_frame_count": 30
     },
     {
         "animal_id": 501004,
@@ -216,7 +225,10 @@
         "faeces_unit_count": 3,
         "faeces_interval_days": 40,
         "faeces_interval_days_random_range": 5,
-        "faeces_keep_days_in_wild": 30
+        "faeces_keep_days_in_wild": 30,
+        "body_walk": "11,12,13,14,15,16,17,18",
+        "body_idle": "0,1,2,3,4,5,6,7,8,9,10",
+        "total_frame_count": 19
     },
     {
         "animal_id": 501005,
@@ -270,7 +282,10 @@
         "faeces_unit_count": 12,
         "faeces_interval_days": 40,
         "faeces_interval_days_random_range": 5,
-        "faeces_keep_days_in_wild": 60
+        "faeces_keep_days_in_wild": 60,
+        "body_walk": "11,12,13,14,15,16,17,18",
+        "body_idle": "0,1,2,3,4,5,6,7,8,9,10",
+        "total_frame_count": 19
     },
     {
         "animal_id": 501006,
@@ -324,7 +339,10 @@
         "faeces_unit_count": 3,
         "faeces_interval_days": 60,
         "faeces_interval_days_random_range": 5,
-        "faeces_keep_days_in_wild": 30
+        "faeces_keep_days_in_wild": 30,
+        "body_walk": "11,12,13,14,15,16,17,18",
+        "body_idle": "0,1,2,3,4,5,6,7,8,9,10",
+        "total_frame_count": 19
     },
     {
         "animal_id": 502001,
@@ -378,7 +396,10 @@
         "faeces_unit_count": 6,
         "faeces_interval_days": 30,
         "faeces_interval_days_random_range": 30,
-        "faeces_keep_days_in_wild": 30
+        "faeces_keep_days_in_wild": 30,
+        "body_walk": "11,12,13,14",
+        "body_idle": "0,1,2,3,4,5,6,7,8,9,10",
+        "total_frame_count": 15
     },
     {
         "animal_id": 805001,
@@ -431,7 +452,8 @@
         "faeces_unit_count": 0,
         "faeces_interval_days": 0,
         "faeces_interval_days_random_range": 0,
-        "faeces_keep_days_in_wild": 0
+        "faeces_keep_days_in_wild": 0,
+        "total_frame_count": 1
     },
     {
         "animal_id": 502005,
@@ -485,7 +507,10 @@
         "faeces_unit_count": 6,
         "faeces_interval_days": 30,
         "faeces_interval_days_random_range": 30,
-        "faeces_keep_days_in_wild": 30
+        "faeces_keep_days_in_wild": 30,
+        "body_walk": "11,12,13,14",
+        "body_idle": "0,1,2,3,4,5,6,7,8,9,10",
+        "total_frame_count": 15
     },
     {
         "animal_id": 502006,
@@ -539,6 +564,9 @@
         "faeces_unit_count": 6,
         "faeces_interval_days": 30,
         "faeces_interval_days_random_range": 30,
-        "faeces_keep_days_in_wild": 30
+        "faeces_keep_days_in_wild": 30,
+        "body_walk": "11,12,13,14",
+        "body_idle": "0,1,2,3,4,5,6,7,8,9,10",
+        "total_frame_count": 15
     }
 ]

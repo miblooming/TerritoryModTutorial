@@ -4,7 +4,7 @@
         "type": 1,
         "window_name": "data",
         "txt_id": "本地化说明",
-        "txt_zh-CN": "本游戏的翻译由爱好者提供或优化，感谢你们。\n俄语：<color=#4CB34C>Zerlin</color>, <color=#4CB34C>Tristis Oris</color>"
+        "txt_zh-CN": "本游戏的翻译由爱好者提供或优化，感谢你们。\n俄语：<color=#4CB34C>Zerlin</color>, <color=#4CB34C>Tristis Oris</color>\n西班牙语：<color=#4CB34C>Andrés Medina</color>"
     },
     {
         "id": 2,
@@ -28350,6 +28350,13 @@
         "txt_zh-CN": "接收"
     },
     {
+        "id": 334201,
+        "type": 1,
+        "window_name": "dialog_letter_refugee",
+        "txt_id": "查看种族信息",
+        "txt_zh-CN": "查看种族信息"
+    },
+    {
         "id": 334300,
         "type": 1,
         "window_name": "dialog_letter_refugee",
@@ -36433,5 +36440,12 @@
         "window_name": "dialog_mods",
         "txt_id": "上传异常: ",
         "txt_zh-CN": "上传异常: "
+    },
+    {
+        "id": 420600,
+        "type": 1,
+        "window_name": "ui",
+        "txt_id": "搜索",
+        "txt_zh-CN": "搜索"
     }
 ]
